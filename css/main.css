@@ -26,6 +26,11 @@ ul, ol{
   margin: 0;
 }
 
+input[type=file], /* FF, IE7+, chrome (except button) */
+input[type=file]::-webkit-file-upload-button { /* chromes and blink button */
+    cursor: pointer; 
+}
+
 select {
     -webkit-appearance: none;
     -moz-appearance: none;
@@ -1610,6 +1615,7 @@ background-color:  #fe0002;
     color: rgb(95, 95, 95);
     padding-left: 10px;
     margin: 0 0 13px;
+    cursor: pointer;
 }
 
 .add-server input::-webkit-input-placeholder{color: rgb(95, 95, 95); opacity:1}
@@ -2116,12 +2122,13 @@ background-color:  #fe0002;
 }
 
 
-.upload-input{
-  width: 86px;
-  height: 29px;
-  background-image: url(../img/upload-img.png);
-  background-size: cover;
-  margin-right: 15px;
+.upload-input {
+    width: 86px;
+    height: 29px;
+    background-image: url(../img/upload-img.png);
+    background-size: cover;
+    margin-right: 15px;
+    cursor: pointer;
 }
 
 .upload-input input{
