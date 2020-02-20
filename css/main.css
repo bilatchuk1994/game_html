@@ -18,6 +18,10 @@ a:focus,button:focus,input:focus,textarea:focus, select:focus{outline:0}
 ::-webkit-scrollbar-track{background:#E8E8E8}
 ::-webkit-scrollbar-thumb{background: rgba(39, 39, 39);}
 
+p{
+  margin: 0;
+}
+
 select {
     -webkit-appearance: none;
     -moz-appearance: none;
