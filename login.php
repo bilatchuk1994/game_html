@@ -126,7 +126,7 @@
                   <div class="login-divider"></div>
                   <h4>Not a member?</h4>
                   <p>You can create an account:</p>
-                  <button>Register</button>
+                  <a class="register-link" href="">Register</a>
                   
                 </div>
               </div>

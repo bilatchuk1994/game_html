@@ -47,10 +47,6 @@
   .left-col-overflow {
     overflow: hidden;
   }
-
-  .server-info ul li {
-    margin-right: 50px;
-  }
   .view-block {
     padding: 0 5px;
   }
@@ -832,16 +828,16 @@
     padding: 0;
   }
 
-  .server-info ul li {
-    margin-right: 30px;
-  }
-
   .page-title {
     padding: 0;
   }
 
   .contact-container {
     margin: 0;
+  }
+
+  .server-info ul li:first-child {
+    width: 160px;
   }
 
   .contact-flex {
@@ -1143,6 +1139,10 @@
   .rating-block .server-block h3 {
     margin-left: 25px;
     font-size: 14px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 385px;
   }
   .view-flex {
     flex-wrap: wrap;
