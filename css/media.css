@@ -683,6 +683,10 @@
   .rating-block p {
     padding-left: 0;
   }
+
+  .contact-item .icon {
+    margin-right: 10px;
+  }
 }
 
 /* Small Devices, Tablets */
