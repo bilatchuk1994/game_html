@@ -773,12 +773,6 @@
     padding: 0;
   }
 
-  .banner-menu > div {
-    border-right: 0;
-    flex-basis: 100%;
-    border-bottom: 1px solid #c1d0de;
-  }
-
   .banner-menu > div:last-child {
     border-bottom: 0;
   }
@@ -797,7 +791,6 @@
   .balance-menu > div {
     flex-basis: 100%;
     border-right: 0;
-    border-bottom: 1px solid #c1d0de;
   }
 
   .buy-server-block {
