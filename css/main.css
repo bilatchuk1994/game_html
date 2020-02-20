@@ -1681,6 +1681,11 @@ background-color:  #fe0002;
     padding: 14px 41px 0 47px;
 }
 
+.advertising-icon {
+    width: 61px;
+    text-align: center;
+}
+
 .flex-cabiner > div:last-child {
     flex: 1 auto;
     overflow: hidden;

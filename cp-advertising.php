@@ -106,7 +106,9 @@
 
                       <div class="adver-item">
                         <div>
-                          <img src="img/balance.png" alt="">
+                          <div class="advertising-icon">
+                            <img src="img/balance.png" alt="">
+                          </div>
                         </div>
                         <div>
                           <p><a href="">Your balance</a></p>
@@ -116,7 +118,9 @@
 
                       <div class="adver-item adver-blue">
                         <div>
+                        <div class="advertising-icon">
                           <img src="img/watch.png" alt="">
+                          </div>
                         </div>
                         <div>
                           <p>VIP Text Advertising</p>
@@ -128,7 +132,9 @@
 
                       <div class="adver-item adver-fiolet">
                         <div>
+                        <div class="advertising-icon">
                           <img src="img/adver-img.png" alt="">
+                          </div>
                         </div>
                         <div>
                           <p>Banner</p>
@@ -138,7 +144,9 @@
 
                       <div class="adver-item adver-green">
                         <div>
+                          <div class="advertising-icon">
                           <img src="img/big-star.png" alt="">
+                          </div>
                         </div>
                         <div>
                           <p>PREMIUM</p>
