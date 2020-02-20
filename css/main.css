@@ -1493,9 +1493,9 @@ background-color:  #fe0002;
   font-weight: 700;
 }
 
-.cp-menu ul li a span{
-  display: inline-block;
-  width: 40px;
+.cp-menu ul li a span {
+    display: inline-block;
+    width: 30px;
 }
 
 .cp-menu ul li a:hover{
