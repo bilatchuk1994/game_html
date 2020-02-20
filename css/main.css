@@ -31,6 +31,10 @@ input[type=file]::-webkit-file-upload-button { /* chromes and blink button */
     cursor: pointer; 
 }
 
+label{
+  margin: 0;
+}
+
 select {
     -webkit-appearance: none;
     -moz-appearance: none;
@@ -1011,6 +1015,7 @@ background-color:  #fe0002;
   color: rgb(45, 45, 45);
   display: block;
   width: 113px;
+  margin-left: 0;
 }
 
 .up-balance-input-flex input {
@@ -2648,12 +2653,14 @@ background-color:  #fe0002;
 }
 
 
-.buy-banners-block .uploads-img input{
-  opacity: 0;
-  height: 100%;
-  width: 100%;
-  position: absolute;
-  z-index: 999;
+.buy-banners-block .uploads-img input {
+    opacity: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: 999;
+    cursor: pointer;
+    padding-left: 106px;
 }
 
 .buy-banners-block .uploads-img span{
