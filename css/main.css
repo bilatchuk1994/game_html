@@ -1845,6 +1845,7 @@ background-color:  #fe0002;
     color: rgb(45, 45, 45);
     font-weight: 700;
     margin: 0 0 11px;
+    text-transform: uppercase;
 }
 
 .vote-flex h3 span {
@@ -1859,6 +1860,7 @@ background-color:  #fe0002;
     display: inline-block;
     position: relative;
     top: -4px;
+    text-transform: initial;
 }
 
 .vote-flex h4 {
