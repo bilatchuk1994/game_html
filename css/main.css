@@ -620,6 +620,10 @@ background-color:  #fe0002;
     text-align: center;
 }
 
+.vip-table-flex .star img{
+  vertical-align: initial;
+}
+
 .vip-table-flex .rates {
     text-align: right;
     width: 63px;
