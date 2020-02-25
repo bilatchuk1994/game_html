@@ -389,7 +389,7 @@
 
                     </div>
 
-                      <div class="title-table">start today <span>Friday, 1 March</span></div>
+                      <div class="title-table"><strong>start today</strong> <span>Friday, 1 March</span></div>
 
                       <div class="table-container">
 
@@ -462,7 +462,7 @@
 
 
 
-                      <div class="title-table">start tomorrow <span>Saturday, 2 March</span></div>
+                      <div class="title-table"><strong>start tomorrow</strong> <span>Saturday, 2 March</span></div>
 
 
                       <div class="table-container">
@@ -506,7 +506,7 @@
 
 
 
-                      <div class="title-table">COMING SOON SERVERS <span>Next 7 days:</span></div>
+                      <div class="title-table"><strong>COMING SOON SERVERS</strong> <span>Next 7 days:</span></div>
 
                       <div class="table-container">
                         <div class="vip-table-flex">
@@ -777,7 +777,7 @@
                       </div>
 
 
-                      <div class="title-table">opened yesterday <span>Thursday, 28 February</span></div>
+                      <div class="title-table"><strong>opened yesterday</strong> <span>Thursday, 28 February</span></div>
 
                       <div class="table-container">
                         <div class="vip-table-flex">
@@ -819,7 +819,7 @@
                       </div>
 
 
-                      <div class="title-table">ALREADY OPEN <span>Last 7 days:</span></div>
+                      <div class="title-table"><strong>ALREADY OPEN</strong> <span>Last 7 days:</span></div>
 
                       <div class="table-container">
                         <div class="vip-table-flex">

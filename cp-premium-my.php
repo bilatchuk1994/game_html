@@ -80,8 +80,8 @@
                     </div>
                   </div>
                   <div class="balance-menu banner-menu">
-                 <div><a data-tab="" class="flex-center tab-link active" href=""><i class="fas fa-shopping-basket"></i> Buy premium</a></div>
-                 <div><a data-tab="" class="flex-center tab-link" href=""><i class="fas fa-clipboard"></i> MY premium</a></div>
+                 <div><a data-tab="buy-premium" class="flex-center tab-link active" href=""><i class="fas fa-shopping-basket"></i> Buy premium</a></div>
+                 <div><a data-tab="my-premium" class="flex-center tab-link" href=""><i class="fas fa-clipboard"></i> MY premium</a></div>
                  <div><a class="flex-center tab-link" href=""><i class="fas fa-cart-plus"></i> Get More Advertising</a></div>
                </div>
                <div class="view-block">
@@ -93,6 +93,50 @@
                    <p>My balance: <span>250 $</span></p>
                  </div>
                </div>
+
+               <div id="buy-premium" class="tab-block current">
+
+               <div class="premium-buy">
+                <div class="row">
+                 <div class="col-lg-6">
+                  <div class="upgrade-server">
+                    <p>Upgrade your server to premium to attract more players</p>
+                  </div>
+                      <div class="premium-group-server">
+                        <select>
+                        <option value="">Big left banner 10 day</option>
+                        <option value="">Big left banner 10 day</option>
+                        <option value="">Big left banner 10 day</option>
+                      </select>
+                      <select>
+                        <option value="">Select period</option>
+                        <option value="">Select period</option>
+                        <option value="">Select period</option>
+                      </select>
+                      </div>
+                      <div class="row">
+                        <div class="col-lg-12">
+                         <button>EXTEND PREMIUM</button>
+                        </div>
+                      </div>
+                 </div>
+                 <div class="col-lg-6">
+                   <div class="server-benefits">
+                     <h3>Premium server benefits: </h3>
+                     <ul>
+                       <li><i class="far fa-star"></i> add different color and border than normal servers </li>
+                       <li><i class="far fa-star"></i> add banner 120x90 pixel to your server </li>
+                       <li><i class="far fa-star"></i> add short description to your server </li>
+                       <li><i class="far fa-star"></i> server gets instant approval </li>
+                       <li><i class="far fa-star"></i> edit your server without needing admin approval </li>
+                       <li><i class="far fa-star"></i> highlighting rates, chronicles and dates in black</li>
+                     </ul>
+                   </div>
+                 </div>
+               </div>
+              </div>
+
+
 
                <div class="row">
                 <div class="col-lg-12">
@@ -275,6 +319,234 @@
                </div>
 
                </div>
+             
+
+               <div id="my-premium" class="tab-block">
+
+                <div class="premium-buy">
+                <div class="row">
+                 <div class="col-lg-6">
+                  <div class="upgrade-server">
+                    <p>NOTE: <span>you already have premium ending 27.03.20 03:00 would you like to extend?</span></p>
+                  </div>
+                      <div class="premium-group-server">
+                        <select>
+                        <option value="">Big left banner 10 day</option>
+                        <option value="">Big left banner 10 day</option>
+                        <option value="">Big left banner 10 day</option>
+                      </select>
+                      <select>
+                        <option value="">Select period</option>
+                        <option value="">Select period</option>
+                        <option value="">Select period</option>
+                      </select>
+                      </div>
+                      <div class="row">
+                        <div class="col-lg-12">
+                          <button>EXTEND PREMIUM</button>
+                        </div>
+                      </div>
+                 </div>
+                 <div class="col-lg-6">
+                   <div class="server-benefits">
+                     <h3>By purchasing PREMIUM You will get: </h3>
+                     <ul>
+                       <li><i class="far fa-star"></i> Server allocation on the front page in the Top 10</li>
+                       <li><i class="far fa-star"></i> On the "All Vote Servers" page:</li>
+                       <li><i class="far fa-star"></i> Possibility to upload a banner of 468x60</li>
+                       <li><i class="far fa-star"></i> Distinctive yellow background</li>
+                       <li><i class="far fa-star"></i> Highlighting inscription "PREMIUM SERVER"</li>
+                       <li><i class="far fa-star"></i> Highlighting inscription "Vote for server"</li>
+                     </ul>
+                   </div>
+                 </div>
+               </div>
+              </div>
+
+
+
+                 <div class="row">
+                <div class="col-lg-12">
+                  <div class="premium-block">
+
+                     <div class="servers-wrapper">
+
+                    <div class="server-wrapper">
+                  <div class="position hidden-mob">1</div>
+                  <div class="icon">
+                    <img src="img/gold.png" alt="">
+                  </div>
+                  <div class="name">
+                    <a class="flex-start" href=""><span class="name-link">L2WARLAND.COM</span> <span class="label-link">High Five</span></a>
+                    <p class="hidden-desc"><a href=""> Comments: 54</a></p>
+                  </div>
+                  <div class="rates">x100
+                    <p class="hidden-lg">Interlude</p>
+                  </div>
+                  <div class="version">Interlude</div>
+                  <div class="open-date"><a href=""> Comments: 54</a></div>
+                  <div class="votes">
+                    <a href=""><img src="img/like.png" alt=""> 58390</a>
+                  </div>
+                </div>
+              </div>
+
+
+                    <div class="server-item server-top-item">
+
+             <div class="server-block">
+               <div>
+                 <div class="server-number">
+                   3
+                 </div>
+                 <div class="flex-center">
+                   <a class="detail" href="">Details <i class="far fa-search"></i></a>
+                 </div>
+               </div>
+               <div>
+                  <a href=""><h3>Eternalwars - Fafurion PVP</h3></a>
+                  <div class="server-img">
+                    <img src="img/server-banner.jpg" alt="">
+                  </div>
+                  <p>NEW! Interlude x100 . Grand Opening 27 Jule ! Online 2000+ | 1150$ FOR TOP 3 BEST CLANS! | Stable Online | JUST TRY!</p>
+                  <div class="server-info">
+                    <div>
+                      <ul>
+                        <li><a href="">http://l2mad.ws</a></li>
+                        <li><a href=""><img src="img/comments.png" alt=""> <span>Comments:</span> 54</a></li>
+                      </ul>
+                    </div>
+                    <div>
+                      <a href=""><img src="img/like-facebook.png" alt=""></a>
+                    </div>
+                  </div>
+               </div>
+               <div>
+                 <div class="vote-for-server">
+                  <div class="for-server-top">
+                    PREMIUM SERVER
+                  </div>
+                   <div class="for-server-body">
+                     <ul>
+                    <li>Chronicle: <span>Interlude</span></li>
+                    <li>Rates: <span>x100</span></li>
+                    <li>Start: <span>17.08.19</span></li>
+                    <li>Votes: <span>3961</span></li>
+                  </ul>
+                  <a class="vote-btn flex-center" href="">VOTE FOR SERVER</a>
+                   </div>
+                 </div>
+               </div>
+             </div>
+
+             <div class="server-bottom">
+                <div class="server-bottom-flex">
+                  <div>
+                    <ul>
+                    <li>Chronicle: <span>Interlude</span></li>
+                    <li>Rates: <span>x100</span></li>
+                    <li>Start: <span>17.08.19</span></li>
+                    <li>Votes: <span>3961</span></li>
+                  </ul>
+                  </div>
+                  <div>
+                    <a class="vote-btn flex-center" href="">VOTE FOR SERVER</a>
+                  </div>
+                </div>
+             </div>
+
+             </div>
+                  </div>
+                  <div class="premium-block no-premium-block">
+
+                    <div class="servers-wrapper">
+
+                    <div class="server-wrapper not-bold">
+                  <div class="position hidden-mob">1</div>
+                  <div class="icon">
+                    <img src="img/gold.png" alt="">
+                  </div>
+                  <div class="name">
+                    <a class="flex-start" href=""><span class="name-link">L2WARLAND.COM</span> <span class="label-link">High Five</span></a>
+                    <p class="hidden-desc"><a href=""> Comments: 54</a></p>
+                  </div>
+                  <div class="rates">x100
+                    <p class="hidden-lg">Interlude</p>
+                  </div>
+                  <div class="version">Interlude</div>
+                  <div class="open-date"><a href=""> Comments: 54</a></div>
+                  <div class="votes">
+                    <a href=""><img src="img/like.png" alt=""> 58390</a>
+                  </div>
+                </div>
+
+                </div>
+                    
+
+                    <div class="server-item">
+
+             <div class="server-block">
+               <div>
+                 <div class="server-number">
+                   3
+                 </div>
+                 <div class="flex-center">
+                   <a class="detail" href="">Details <i class="far fa-search"></i></a>
+                 </div>
+               </div>
+               <div>
+                  <a href=""><h3>Eternalwars - Fafurion PVP</h3></a>
+                  <p>NEW! Interlude x100 . Grand Opening 27 Jule ! Online 2000+ | 1150$ FOR TOP 3 BEST CLANS! | Stable Online | JUST TRY!</p>
+                  <div class="server-info">
+                    <div>
+                      <ul>
+                        <li><a href="">http://l2mad.ws</a></li>
+                        <li><a href=""><img src="img/comments.png" alt=""> <span>Comments:</span> 54</a></li>
+                      </ul>
+                    </div>
+                    <div>
+                      <a href=""><img src="img/like-facebook.png" alt=""></a>
+                    </div>
+                  </div>
+               </div>
+               <div>
+                 <div class="vote-for-server">
+                   <div class="for-server-body">
+                     <ul>
+                    <li>Chronicle: <span>Interlude</span></li>
+                    <li>Rates: <span>x100</span></li>
+                    <li>Start: <span>17.08.19</span></li>
+                    <li>Votes: <span>3961</span></li>
+                  </ul>
+                  <a class="vote-btn flex-center" href="">VOTE FOR SERVER</a>
+                   </div>
+                 </div>
+               </div>
+             </div>
+
+             <div class="server-bottom">
+                <div class="server-bottom-flex">
+                  <div>
+                    <ul>
+                    <li>Chronicle: <span>Interlude</span></li>
+                    <li>Rates: <span>x100</span></li>
+                    <li>Start: <span>17.08.19</span></li>
+                    <li>Votes: <span>3961</span></li>
+                  </ul>
+                  </div>
+                  <div>
+                    <a class="vote-btn flex-center" href="">VOTE FOR SERVER</a>
+                  </div>
+                </div>
+             </div>
+
+             </div>
+                  </div>
+                </div>
+               </div>
+               </div>
+               </div>
+
                 </div>
                 </div>
               </div>

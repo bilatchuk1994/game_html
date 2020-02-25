@@ -29,7 +29,7 @@
   }
   .contact-item .icon {
     font-size: 22px;
-    margin-right: 5px;
+    margin-right: 10px;
   }
   .cp-content .contact-item a {
     font-size: 11px;
@@ -373,12 +373,12 @@
   }
 
   .title-table {
-    padding: 0 10px;
+    padding: 2px 10px;
     margin: 0 0 10px;
     height: auto;
     background-color: #dfdfdf;
     position: relative;
-    height: 25px;
+    height: auto;
   }
 
   .title-table:before {
@@ -692,6 +692,9 @@
   .contact-item .icon {
     margin-right: 10px;
   }
+  .form-message p {
+    font-size: 12px;
+  }
 }
 
 /* Small Devices, Tablets */
@@ -846,7 +849,7 @@
   }
 
   .server-info ul li:first-child {
-    width: 160px;
+    width: 230px;
   }
 
   .contact-flex {
@@ -855,6 +858,30 @@
 
   .breadcrums-page {
     padding: 0;
+  }
+
+  .balance-menu a {
+    border-top: 0;
+  }
+
+  .balance-menu > div:first-child a {
+    border-top: 1px solid #c1d0de;
+  }
+
+  .balance-menu > div:first-child a.active {
+    border-top: 1px solid #2573bc;
+  }
+
+  .balance-menu > div:nth-child(2) > a {
+    border-right: 1px solid #c1d0de;
+  }
+
+  .balance-menu > div:nth-child(2) > a.active {
+    border-right: 1px solid #2573bc;
+  }
+
+  .form-message p {
+    font-size: 14px;
   }
 }
 
@@ -1258,6 +1285,16 @@
 
   .replies .comment {
     padding-right: 0;
+  }
+
+  .server-info ul li:first-child {
+    width: 140px;
+  }
+
+  .server-info ul li a {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
 }
 

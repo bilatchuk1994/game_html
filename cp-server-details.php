@@ -220,7 +220,7 @@
                           <div class="file-flex">
                             <div>
                               <div class="upload-input">
-                            <span></span>
+                            <span>Upload</span>
                             <input id="imgInp" type="file" name="myImage" accept="image/x-png,image/gif,image/jpeg" />
                           </div>
                             </div>
