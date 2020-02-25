@@ -119,6 +119,11 @@
   .right-col {
     display: none;
   }
+
+  .menu_expanded {
+    overflow: hidden;
+  }
+
   .menu-nav {
     display: none;
     position: fixed;
@@ -137,7 +142,7 @@
     padding: 0 5px;
     height: 20px;
     line-height: 20px;
-    top: 2px;
+    top: -4px;
     right: 0px;
     font-size: 13px;
     font-weight: 700;
@@ -438,6 +443,10 @@
   .server-wrapper .name {
     padding-left: 8px;
     flex: 1 auto;
+  }
+
+  .server-wrapper .name p {
+    line-height: 0.7;
   }
 
   .server-wrapper .name p a {
@@ -794,7 +803,7 @@
   }
 
   .cp-menu ul li a span {
-    width: 20px;
+    width: 25px;
   }
 
   .login-block .login-divider {
@@ -1166,7 +1175,7 @@
   }
 
   .cp-menu ul li a span {
-    width: 40px;
+    width: 25px;
   }
 
   .server-info ul li a span {
@@ -1355,7 +1364,7 @@
     margin: 0 0 15px;
   }
   .server-benefits {
-    padding: 16px 10px 20px 15px;
+    padding: 16px 10px 3px 15px;
   }
   .vip-buy-text h3 {
     font-size: 12px;
