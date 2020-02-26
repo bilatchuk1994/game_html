@@ -102,7 +102,7 @@
                     </div>
                   </div>
                   <div>
-                    <div class="cp-content">
+                    <div class="cp-content cp-contacts">
                       <div class="contact-container">
                <p>We are always happy to help you in solving any problems related to our site, as well as listen to any of your suggestions! <br> To contact us, use any method convenient for you:</p>
              </div>

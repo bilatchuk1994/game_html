@@ -1553,9 +1553,18 @@ background-color:  #fe0002;
     padding: 0 10px;
 }
 
+.cp-contacts{
+  padding: 0;
+}
+
+.cp-contacts .contact-flex {
+    padding: 0 0px;
+}
+
 .cp-content .contact-container{
   padding: 0;
   border: 0;
+  margin: 0;
 }
 
 .cp-content .contact-item {
@@ -2945,6 +2954,10 @@ background-color:  #fe0002;
 .replies {
     padding-left: 65px;
     position: relative;
+}
+
+.replies .comment {
+    padding: 8px 8px 0;
 }
 
 
