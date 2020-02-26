@@ -2875,9 +2875,11 @@ background-color:  #fe0002;
     margin-left: 10px;
 }
 
-.form-message p span{
-  color: #797979;
+.form-message p span {
+    color: #797979;
+    font-weight: normal;
 }
+
 
 
 .view-block {
@@ -2954,6 +2956,10 @@ background-color:  #fe0002;
 .replies {
     padding-left: 65px;
     position: relative;
+}
+
+.replies .comment-info {
+    padding: 0 0 8px;
 }
 
 .replies .comment {
