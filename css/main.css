@@ -2962,6 +2962,14 @@ background-color:  #fe0002;
     padding: 0 0 8px;
 }
 
+.replies .comment:last-child > .comment-flex .comment-info{
+  padding: 0;
+}
+
+.comments > div:nth-child(odd) .replies .comment:last-child > .comment-flex .comment-info{
+  padding: 0 0 8px;
+}
+
 .replies .comment {
     padding: 8px 8px 0;
 }
