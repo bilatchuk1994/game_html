@@ -883,6 +883,13 @@
   .form-message p {
     font-size: 14px;
   }
+
+span.name-link {
+    display: inline-block;
+    height: 20px;
+    overflow: hidden;
+}
+
 }
 
 /* Extra Small Devices, Phones */
@@ -891,9 +898,17 @@
     padding: 0 10px;
   }
 
+  .server-img {
+  height: auto;
+}
+
   .container {
     padding: 0 10px;
   }
+
+  .rating-block .server-block p {
+    height: 26px;
+}
 
   .vip-table-flex .rates,
   .vip-table-flex .version,
@@ -1196,10 +1211,10 @@
     padding: 7px 10px 10px;
   }
 
-  .cp-menu ul li a {
-    padding-left: 25px;
+.cp-menu ul li a {
+    padding-left: 15px;
     justify-content: flex-start;
-  }
+}
 
   .cp-menu ul li a span {
     width: 25px;
@@ -1327,12 +1342,13 @@
     top: -3px;
   }
 
-  .vip-table-flex .rates {
+.vip-table-flex .rates {
     text-align: left;
     font-size: 12px;
     color: rgb(100, 100, 100);
     font-weight: bold;
-  }
+    text-align: center;
+}
 
   .vip-table-flex .version {
     flex-basis: 50%;
@@ -1390,6 +1406,15 @@
   .rating-block .server-block h3 {
     max-width: 300px;
   }
+
+.vip-table-flex .rates span {
+    display: block;
+    width: 52px;
+    text-align: center;
+    position: relative;
+    left: -9px;
+}
+
 }
 
 @media only screen and (max-width: 370px) {

@@ -317,7 +317,7 @@
                           <a href="">L2DAMAGE.COM</a>
                         </div>
                         <div class="star"><img src="img/star.png" title="Premium Server" alt=""></div>
-                        <div class="rates"> x100</div>
+                        <div class="rates"> <span>x100</span></div>
                         <div class="version">Interlude</div>
                         <div class="date">01.03.19</div>
                       </div>
@@ -330,7 +330,7 @@
                           <a href="">L2DAMAGE.COM</a>
                         </div>
                         <div class="star"><img src="img/star.png" title="Premium Server" alt=""></div>
-                        <div class="rates"> x100</div>
+                        <div class="rates"><span> x100</span></div>
                         <div class="version">Interlude</div>
                         <div class="date"><span class="today">today</span></div>
                       </div>
@@ -343,7 +343,7 @@
                           <a href="">SCRYDE.ru</a>
                         </div>
                         <div class="star"><img src="img/star.png" title="Premium Server" alt=""></div>
-                        <div class="rates"> x100</div>
+                        <div class="rates"> <span>x100</span></div>
                         <div class="version">Interlude</div>
                         <div class="date">01.03.19</div>
                       </div>
@@ -356,7 +356,7 @@
                           <a href="">L2DAMAGE.COM</a>
                         </div>
                         <div class="star"><img src="img/star.png" title="Premium Server" alt=""></div>
-                        <div class="rates"> x100</div>
+                        <div class="rates"> <span>x100</span></div>
                         <div class="version">Interlude</div>
                         <div class="date">01.03.19</div>
                       </div>
@@ -369,7 +369,7 @@
                           <a href="">l2devil.ws</a>
                         </div>
                         <div class="star"><img src="img/star.png" title="Premium Server" alt=""></div>
-                        <div class="rates"> x100</div>
+                        <div class="rates"> <span>x100</span></div>
                         <div class="version">Interlude</div>
                         <div class="date">01.03.19</div>
                       </div>
@@ -382,7 +382,7 @@
                           <a href="">interlude-online</a>
                         </div>
                         <div class="star"><img src="img/star.png" title="Premium Server" alt=""></div>
-                        <div class="rates"> x100</div>
+                        <div class="rates"> <span>x100</span></div>
                         <div class="version">Interlude</div>
                         <div class="date">01.03.19</div>
                       </div>
@@ -401,7 +401,7 @@
                           <a href="">L2MAD.NET</a>
                         </div>
                         <div class="star"><img src="img/star.png" title="Premium Server" alt=""></div>
-                        <div class="rates"> x100</div>
+                        <div class="rates"> <span>x100</span></div>
                         <div class="version">Interlude</div>
                         <div class="date"><span class="today">today</span></div>
                       </div>
@@ -414,7 +414,7 @@
                           <a href="">LA2DREAM.COM</a>
                         </div>
                         <div class="star"><img src="img/star.png" title="Premium Server" alt=""></div>
-                        <div class="rates"> x100</div>
+                        <div class="rates"><span> x100</span></div>
                         <div class="version">Interlude</div>
                         <div class="date"><span class="today">today</span></div>
                       </div>
@@ -427,7 +427,7 @@
                           <a href="">linezeus.gr</a>
                         </div>
                         <div class="star"></div>
-                        <div class="rates"> x100</div>
+                        <div class="rates"><span>x100</span></div>
                         <div class="version">Interlude</div>
                         <div class="date"><span class="today">today</span></div>
                       </div>
@@ -440,7 +440,7 @@
                           <a href="">l2flector.com</a>
                         </div>
                         <div class="star"></div>
-                        <div class="rates"> x100</div>
+                        <div class="rates"><span>x100</span></div>
                         <div class="version">Interlude</div>
                         <div class="date">Today</div>
                       </div>
@@ -453,7 +453,7 @@
                           <a href="">l2amerika.com</a>
                         </div>
                         <div class="star"></div>
-                        <div class="rates"> x100</div>
+                        <div class="rates"><span>x100</span></div>
                         <div class="version">Interlude</div>
                         <div class="date">Today</div>
                       </div>
@@ -474,7 +474,7 @@
                           <a href="">l2amerika.com</a>
                         </div>
                         <div class="star"><img src="img/star.png" title="Premium Server" alt=""></div>
-                        <div class="rates"> x100</div>
+                        <div class="rates"> <span>x100</span></div>
                         <div class="version">Interlude</div>
                         <div class="date"><span class="tomorrow">Tomorrow</span></div>
                       </div>
@@ -486,7 +486,7 @@
                           <a href="">l2amerika.com</a>
                         </div>
                         <div class="star"></div>
-                        <div class="rates"> x100</div>
+                        <div class="rates"> <span>x100</span></div>
                         <div class="version">Interlude</div>
                         <div class="date"><span class="tomorrow">Tomorrow</span></div>
                       </div>
@@ -498,7 +498,7 @@
                           <a href="">l2amerika.com</a>
                         </div>
                         <div class="star"></div>
-                        <div class="rates"> x100</div>
+                        <div class="rates"><span>x100</span></div>
                         <div class="version">Interlude</div>
                         <div class="date">Tomorrow</div>
                       </div>
@@ -517,7 +517,7 @@
                           <a href="">l2amerika.com</a>
                         </div>
                         <div class="star"><img src="img/star.png" title="Premium Server" alt=""></div>
-                        <div class="rates"> x100</div>
+                        <div class="rates"><span>x100</span></div>
                         <div class="version">Interlude</div>
                         <div class="date">01.03.19</div>
                       </div>
@@ -529,7 +529,7 @@
                           <a href="">l2amerika.com</a>
                         </div>
                         <div class="star"></div>
-                        <div class="rates"> x100</div>
+                        <div class="rates"><span>x100</span></div>
                         <div class="version">Interlude</div>
                         <div class="date">01.03.19</div>
                       </div>
@@ -541,7 +541,7 @@
                           <a href="">l2amerika.com</a>
                         </div>
                         <div class="star"></div>
-                        <div class="rates"> x100</div>
+                        <div class="rates"><span>x100</span></div>
                         <div class="version">Interlude</div>
                         <div class="date">01.03.19</div>
                       </div>
@@ -553,7 +553,7 @@
                           <a href="">l2amerika.com</a>
                         </div>
                         <div class="star"></div>
-                        <div class="rates"> x100</div>
+                        <div class="rates"><span>x100</span></div>
                         <div class="version">Interlude</div>
                         <div class="date">01.03.19</div>
                       </div>
@@ -565,7 +565,7 @@
                           <a href="">l2amerika.com</a>
                         </div>
                         <div class="star"></div>
-                        <div class="rates"> x100</div>
+                        <div class="rates"><span>x100</span></div>
                         <div class="version">Interlude</div>
                         <div class="date">01.03.19</div>
                       </div>
@@ -577,7 +577,7 @@
                           <a href="">l2amerika.com</a>
                         </div>
                         <div class="star"><img src="img/star.png" title="Premium Server" alt=""></div>
-                        <div class="rates"> x100</div>
+                        <div class="rates"><span> x100</span></div>
                         <div class="version">Interlude</div>
                         <div class="date">01.03.19</div>
                       </div>
@@ -589,7 +589,7 @@
                           <a href="">l2amerika.com</a>
                         </div>
                         <div class="star"></div>
-                        <div class="rates"> x100</div>
+                        <div class="rates"><span>x100</span></div>
                         <div class="version">Interlude</div>
                         <div class="date">01.03.19</div>
                       </div>
@@ -601,7 +601,7 @@
                           <a href="">l2amerika.com</a>
                         </div>
                         <div class="star"></div>
-                        <div class="rates"> x100</div>
+                        <div class="rates"> <span>x100</span></div>
                         <div class="version">Interlude</div>
                         <div class="date">01.03.19</div>
                       </div>
@@ -620,7 +620,7 @@
                           <a href="">l2amerika.com</a>
                         </div>
                         <div class="star"></div>
-                        <div class="rates"> x100</div>
+                        <div class="rates"> <span>x100</span></div>
                         <div class="version">Interlude</div>
                         <div class="date">01.03.19</div>
                       </div>
@@ -632,7 +632,7 @@
                           <a href="">l2amerika.com</a>
                         </div>
                         <div class="star"></div>
-                        <div class="rates"> x100</div>
+                        <div class="rates"> <span>x100</span></div>
                         <div class="version">Interlude</div>
                         <div class="date">01.03.19</div>
                       </div>
@@ -644,7 +644,7 @@
                           <a href="">l2amerika.com</a>
                         </div>
                         <div class="star"><img src="img/star.png" title="Premium Server" alt=""></div>
-                        <div class="rates"> x100</div>
+                        <div class="rates"> <span>x100</span></div>
                         <div class="version">Interlude</div>
                         <div class="date">01.03.19</div>
                       </div>
@@ -656,7 +656,7 @@
                           <a href="">l2amerika.com</a>
                         </div>
                         <div class="star"><img src="img/star.png" title="Premium Server" alt=""></div>
-                        <div class="rates"> x100</div>
+                        <div class="rates"> <span>x100</span></div>
                         <div class="version">Interlude</div>
                         <div class="date">01.03.19</div>
                       </div>
@@ -668,7 +668,7 @@
                           <a href="">l2amerika.com</a>
                         </div>
                         <div class="star"></div>
-                        <div class="rates"> x100k</div>
+                        <div class="rates"> <span>x100</span></div>
                         <div class="version">Interlude</div>
                         <div class="date">01.03.19</div>
                       </div>
@@ -680,7 +680,7 @@
                           <a href="">l2amerika.com</a>
                         </div>
                         <div class="star"></div>
-                        <div class="rates"> x100</div>
+                        <div class="rates"> <span>x100</span></div>
                         <div class="version">Interlude</div>
                         <div class="date">01.03.19</div>
                       </div>

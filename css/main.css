@@ -490,6 +490,10 @@ background-color:  #fe0002;
 	font-weight: normal;
 }
 
+.view-all:hover {
+  color: #f24330;
+}
+
 .view-all {
   font-size: 16px;
   color: #f24330;
@@ -629,8 +633,10 @@ background-color:  #fe0002;
     text-align: center;
 }
 
-.vip-table-flex .star img{
-  vertical-align: initial;
+.vip-table-flex .star img {
+    vertical-align: initial;
+    position: relative;
+    top: 2px;
 }
 
 .vip-table-flex .rates {
@@ -1987,8 +1993,8 @@ background-color:  #fe0002;
     flex-wrap: wrap;
 }
 
-.vote-btn-list li{
-  margin: 0 5px 15px 0;
+.vote-btn-list li {
+    margin: 0 5px 10px 0;
 }
 
 .vote-btn-list li a {
@@ -2128,10 +2134,11 @@ background-color:  #fe0002;
     margin: 0 0 17px;
 }
 
-.revard-item  p{
-  font-size: 14px;
-  color: rgb(108, 108, 108);
-  line-height: 1.286;
+.revard-item p {
+    font-size: 14px;
+    color: #6c6c6c;
+    line-height: 1.286;
+    word-break: break-word;
 }
 
 
@@ -2276,6 +2283,11 @@ background-color:  #fe0002;
     padding-left: 0;
 }
 
+.rating-block .server-block h3 {
+    height: 30px;
+    overflow: hidden;
+}
+
 
 .server-top-item{
   background-image: url(../img/server-bg.jpg);
@@ -2389,6 +2401,7 @@ background-color:  #fe0002;
 .server-img {
     max-width: 480px;
     margin: 0 0 10px;
+    height: 60px;
 }
 
 .server-img img{
