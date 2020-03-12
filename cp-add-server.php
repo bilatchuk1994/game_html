@@ -118,7 +118,11 @@
                         <div class="row row-10">
                           <div class="col-md-4">
                             <label>Chronicle</label>
-                            <input type="text" placeholder="Chronicle">
+                            <select name="" id="">
+                              <option value="">Chronicle 1</option>
+                              <option value="">Chronicle 2</option>
+                              <option value="">Chronicle 3</option>
+                            </select>
                           </div>
                           <div class="col-md-4">
                             <label>Website</label>

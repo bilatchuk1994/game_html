@@ -1679,6 +1679,22 @@ background-color:  #fe0002;
     margin: 0 0 13px;
 }
 
+.add-server select {
+    height: 30px;
+    width: 100%;
+    background-color: #f7f7f7;
+    border: 1px solid #c1c4c9;
+    font-size: 13px;
+    color: rgb(95, 95, 95);
+    padding-left: 10px;
+    margin: 0 0 13px;
+    background-image: url(../img/arrow-down.png);
+    background-repeat: no-repeat;
+    background-position: center right 13px;
+    background-size: 10px;
+    cursor: pointer;
+}
+
 .add-server input::-webkit-input-placeholder{color: rgb(95, 95, 95); opacity:1}
 .add-server input:-moz-placeholder{color: rgb(95, 95, 95); opacity:1}
 .add-server input::-moz-placeholder{color: rgb(95, 95, 95); opacity:1}
@@ -3306,6 +3322,10 @@ background-color:  #fe0002;
     border-bottom: 2px solid #fff;
 }
 
+.footer p span {
+    margin-left: 25px;
+}
+
 .footer .top-footer-text p{
   font-size: 18px;
 }
@@ -3327,6 +3347,36 @@ background-color:  #fe0002;
     display: flex;
     justify-content: flex-end;
 }
+
+.footer-content {
+    display: none;
+}
+
+.footer-button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+      margin: 0 0 27px;
+    position: relative;
+    padding-bottom: 15px;
+    border-bottom: 2px solid #fff;
+}
+
+.footer-button  a {
+    position: relative;
+    margin-right: 20px;
+    display: inline-block;
+    color: #fff;
+    padding-bottom: 1px;
+    border-bottom: 1px solid #fff;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.footer-button  a:hover{
+  border-bottom: 1px solid transparent;
+}
+
 /*======== end Footer ========*/
 
 

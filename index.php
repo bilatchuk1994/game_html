@@ -1112,34 +1112,144 @@
     </main>
 
     <footer class="footer">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12">
-             <div class="top-footer-text">
-               <p>List of Lineage servers. Easy search of l2 servers.</p>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+
+         <div class="top-footer-text">
+               <p>Lineage 2 Servers Rating</p>
              </div>
-             <p>You can choose l2 server by the following criteria:<br><br>Top Lineage 2 servers:<br>● The best projects compete here. By choosing one of these, you will be confident in the high online and long-term server.<br><br>By opening date (VIP section):<br>● New Lineage 2 servers are on the website home page, also there are available already open l2 pvp servers.<br>● We recommend you to pay attention to projects that are opening today, tomorrow or have already opened yesterday and earlier.<br><br>Platforms available:<br>● Lineage 2 PTS - original game version.<br>● L2j (Java) - with a lot of modifications and amenities.<br><br>Rates:<br>● A wide selection by rates: from classic low-rate x3, craft x50 and x100, mid-rate x75 to pvp x500 and custom x999.</p>
-          </div>
+
+             <p>Lineage 2 – the popularity of this virtual world has not slowed down for many years. Players around the world wait for the launch of a new L2 server. The l2topservers.com portal is a platform which priority is the <strong>L2 servers rating</strong>. Here players can get the maximum information and choose the best option.</p>
+
+         
+         <div class="top-footer-text">
+               <p>Game Quality Criteria</p>
+             </div>
+
+             <p>The new Lineage 2 servers are available on the website home page and also the already running L2 PvP servers are available there. An important criterion for the thrill out of immersion in the plot is the operation of servers and their specifics:
+             <br>● number of players, their skill level;
+             <br>● nationality, the language of communication and information submission;
+             <br>● Time Zones;
+             <br>● GM Shop availability;
+             <br>● maximum gear upgrade.
+             <br>
+             <br> All these affect the demand for the server, its load, speed and thus the number of potential problems during the game.
+             </p>
+
+              <div class="top-footer-text">
+               <p>Differentiation of game versions for different servers</p>
+             </div>
+
+             <p>
+               The following platforms are available for the players:
+               <br>● Lineage 2 PTS  – the original version of the game;
+               <br>● L2j (Java) – with a large number of upgrades and facilities.
+               <br><br>
+               Lineage 2 adapts to the specifics of servers in various parts of the world.
+               <br>● Korean versions are the first that test the latest updates and modules. The most powerful technical upgrades are tested here.
+               <br>● SEA version – for Asian consumers.  Popular among the advanced users who want to be at the forefront of the updates. It is supported in 11 Asian countries.
+               <br>● The global game version is distributed among 48 countries, including the North American continent and European States.
+               <br><br> The main differences between the servers are in the chronicles and language adaptation. The only "fly in the ointment" is that by making a choice in favour of a global L2 server, the player will have to start from scratch.
+             </p>
+
+
+             <div class="top-footer-text">
+               <p>How to choose the Lineage2 server of high quality </p>
+             </div>
+
+
+             <p>
+               Many try to make money on a popular game. MMORPG may give the player real pleasure only under the conditions of a responsible approach to server selection. How high-quality its maintenance is, how much money is invested in the development and maintenance of work and how communication with the players is maintained.
+               <br><br>
+               Important criteria to consider:
+               <br>● sign up must be on a level 2 domain;
+               <br>● active top streamers are involved in reporting events to be presented on the server;
+               <br>● the server administration stays always connected with players, actively responds to complaints and comments;
+               <br>● the server is promoted owing to advanced advertising platforms, as far as resource owners actively invest in promotion (Facebook, L2Top, Adwords, paid advertising banners on the websites that advertise servers);
+               <br>● positive and “live” feedbacks on the quality of the server’s operation, dated by the current period of time, are mandatory;
+               <br>● the high-quality website design, with good graphics, without layout errors and without mass “clutter” with buttons by switching to announcement sites;
+               <br>● own active forum with updates in discussions should be available;
+               <br>● the website should be promoted in social networks with public comments.
+               <br><br> This list of criteria will allow the player to select one-day servers and choose a platform that will be really comfortable to play on.
+             </p>
+
+
+             <div class="footer-content">
+
+
+             <div class="top-footer-text">
+               <p>Recommendations from consultants</p>
+             </div>
+
+             <p>
+               ● Lineage 2 servers of the VIP section are guaranteed long-term projects with a high level of funding and serious technical support. Here, players feel as comfortable as possible, the administration promptly responds to the arising problems and actively promotes all the new items from creators.
+               <br>● The servers rating based on the players’ voting will also help you to navigate.
+               <br>● Server rate. Pay attention to the choice of bets:
+                  <br><span>● low rate classic x3,</span>
+                  <br><span>● craft x50 и x100,</span>
+                  <br><span>● mid-rate x75,</span>
+                  <br><span>● pvp x500,</span>
+                  <br><span>● custom x999.</span>
+                  <br> High rates – the character is upgraded by leaps and bounds, generous bonuses and frequency of high-quality drop are at their best. Low rate is for "hard-cores". Maximum resistance from monsters and tasks of immense complexity.
+                  <br>● Among the L2 servers there are platforms where only experienced and top players appear. Choose a server according to your preferred game style
+                  <br><br>For a beginner who is not familiar with the world of Lineage 2, it will be convenient to start playing on a highly rated server with those players who speak familiar language and live in close time zones.
+             </p>
+
+             <div class="top-footer-text">
+               <p>New L2 server ratings</p>
+             </div>
+
+             <p>At our portal you can find polling results among players on the quality of the new servers. The leaders can change over time since the data is regularly updated in relation to new platforms opening. We display all the changes for the most prompt submission of information.</p>
+
+
+             <div class="top-footer-text">
+               <p>L2 servers ratings on chronicles </p>
+             </div>
+
+             <p>
+               Chronicles are another aspect of game development and serve as an analytics object of our portal. There are players for whom a specific scenario is important, the block on the right will help you choose a server for the chronicles. We track the L2 top according to the following storylines:
+               <br>● INTERLUDE;
+               <br>● HIGH FIVE;
+               <br>● CLASSIC;
+               <br>● C4;
+               <br>● FAFURION;
+               <br>● EPILOGUE;
+               <br>● GVE;
+               <br>● GRACIA FINAL;
+               <br>● GRAND CRUSADE.
+
+               <br><br> The developers have produced a lot of tools that allow to pump skills and learn from representatives of large and experienced clans, which guarantee protection and support for the player.
+
+             </p>
+
+             </div>
+
+             <div class="footer-button">
+               <a href="">SHOW ALL</a>
+             </div>
+
+       </div>
+     </div>
+     <div class="row">
+      <div class="col-lg-8">
+        <div class="row no-gutters links">
+          <a href="https://l2topservers.com/terms-of-use">TERMS OF USE</a>
+          <a href="https://l2topservers.com/privacy-policy">PRIVACY POLICY</a>
+          <a href="https://l2topservers.com/g2a-pay-terms-and-conditions">G2A.PAY TERMS AND CONDITIONS</a>
         </div>
-        <div class="row">
-          <div class="col-lg-8">
-            <div class="row no-gutters links">
-<a href="https://l2topservers.com/terms-of-use">TERMS OF USE</a>
-<a href="https://l2topservers.com/privacy-policy">PRIVACY POLICY</a>
-<a href="https://l2topservers.com/g2a-pay-terms-and-conditions">G2A.PAY TERMS AND CONDITIONS</a>
-</div>
-            <h3>Copyright 2019 l2topservers.com. <span>All rights reserved.</span></h3>
-          </div>
-          <div class="col-lg-4">
-            <div class="flex-end">
-              <a href="">
-              <img src="img/g2apay_partner.png" alt="">
-            </a>
-            </div>
-          </div>
+        <h3>Copyright 2019 l2topservers.com. <span>All rights reserved.</span></h3>
+      </div>
+      <div class="col-lg-4">
+        <div class="flex-end">
+          <a href="">
+            <img src="img/g2apay_partner.png" alt="">
+          </a>
         </div>
       </div>
-    </footer>
+    </div>
+  </div>
+</footer>
    
   </div>
 

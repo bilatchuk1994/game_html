@@ -236,9 +236,15 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
+
          <div class="top-footer-text">
-               <p>List of Lineage servers. Easy search of l2 servers.</p>
+               <p>Lineage 2 Servers Rating</p>
              </div>
+
+             <p>Lineage 2 – the popularity of this virtual world has not slowed down for many years. Players around the world wait for the launch of a new L2 server. The l2topservers.com portal is a platform which priority is the <strong>L2 servers rating</strong>. Here players can get the maximum information and choose the best option.</p>
+
+
+
          <p>You can choose l2 server by the following criteria:<br><br>Top Lineage 2 servers:<br>● The best projects compete here. By choosing one of these, you will be confident in the high online and long-term server.<br><br>By opening date (VIP section):<br>● New Lineage 2 servers are on the website home page, also there are available already open l2 pvp servers.<br>● We recommend you to pay attention to projects that are opening today, tomorrow or have already opened yesterday and earlier.<br><br>Platforms available:<br>● Lineage 2 PTS - original game version.<br>● L2j (Java) - with a lot of modifications and amenities.<br><br>Rates:<br>● A wide selection by rates: from classic low-rate x3, craft x50 and x100, mid-rate x75 to pvp x500 and custom x999.</p>
        </div>
      </div>

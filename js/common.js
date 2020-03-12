@@ -87,6 +87,12 @@ function damaxToggleMenu() {
     $("body").toggleClass(" menu_expanded");
     $(".menu-nav").slideToggle();
   });
+
+  $(".footer-button  a").click(function(e) {
+    e.preventDefault();
+    $(".footer-content").slideToggle();
+    $(".footer-button").hide();
+  });
 }
 
 $(document).mouseup(function (e){ // событие клика по веб-документу
