@@ -1155,30 +1155,6 @@
 
 
              <div class="top-footer-text">
-               <p>How to choose the Lineage2 server of high quality </p>
-             </div>
-
-
-             <p>
-               Many try to make money on a popular game. MMORPG may give the player real pleasure only under the conditions of a responsible approach to server selection. How high-quality its maintenance is, how much money is invested in the development and maintenance of work and how communication with the players is maintained.
-               <br><br>
-               Important criteria to consider:
-               <br>● sign up must be on a level 2 domain;
-               <br>● active top streamers are involved in reporting events to be presented on the server;
-               <br>● the server administration stays always connected with players, actively responds to complaints and comments;
-               <br>● the server is promoted owing to advanced advertising platforms, as far as resource owners actively invest in promotion (Facebook, L2Top, Adwords, paid advertising banners on the websites that advertise servers);
-               <br>● positive and “live” feedbacks on the quality of the server’s operation, dated by the current period of time, are mandatory;
-               <br>● the high-quality website design, with good graphics, without layout errors and without mass “clutter” with buttons by switching to announcement sites;
-               <br>● own active forum with updates in discussions should be available;
-               <br>● the website should be promoted in social networks with public comments.
-               <br><br> This list of criteria will allow the player to select one-day servers and choose a platform that will be really comfortable to play on.
-             </p>
-
-
-             <div class="footer-content">
-
-
-             <div class="top-footer-text">
                <p>Recommendations from consultants</p>
              </div>
 
@@ -1195,6 +1171,14 @@
                   <br>● Among the L2 servers there are platforms where only experienced and top players appear. Choose a server according to your preferred game style
                   <br><br>For a beginner who is not familiar with the world of Lineage 2, it will be convenient to start playing on a highly rated server with those players who speak familiar language and live in close time zones.
              </p>
+
+
+
+
+             <div class="footer-content">
+
+
+             
 
              <div class="top-footer-text">
                <p>New L2 server ratings</p>
