@@ -854,12 +854,18 @@ background-color:  #fe0002;
   flex-basis: 50%;
 }
 
+
+
+.balance-menu > div:nth-child(2) > a{
+  border-right: 0;
+}
+
 .balance-menu > div:last-child{
   border-right: 0;
 }
 
-.balance-menu > div:nth-child(2) > a{
-  border-right: 0;
+.balance-menu > div:last-child > a{
+  border-right: 1px solid #c1d0de;
 }
 
 .balance-menu a {
@@ -872,6 +878,14 @@ background-color:  #fe0002;
     text-transform: uppercase;
     text-align: center;
     border: 1px solid #c1d0de;
+}
+
+.menu-nav.hide-menu {
+    display: none;
+}
+
+.menu-nav.show-menu{
+  display: block;
 }
 
 .buy-banners-block {
@@ -1122,7 +1136,7 @@ background-color:  #fe0002;
     color: rgb(103, 103, 103);
     line-height: 1.371;
     text-align: center;
-    margin: 0 0 17px;
+    margin: 0 0 12px;
 }
 
 .captcha {
@@ -1663,7 +1677,6 @@ background-color:  #fe0002;
     color: rgb(95, 95, 95);
     padding-left: 10px;
     margin: 0 0 13px;
-    cursor: pointer;
 }
 
 .add-server input::-webkit-input-placeholder{color: rgb(95, 95, 95); opacity:1}
@@ -1738,6 +1751,10 @@ background-color:  #fe0002;
 .advertising-icon {
     width: 61px;
     text-align: center;
+}
+
+.advertising-icon img {
+    height: 55px;
 }
 
 .flex-cabiner > div:last-child {
@@ -2267,8 +2284,9 @@ background-color:  #fe0002;
     padding: 7px 5px 5px 0;
 }
 
-.server-block > div:nth-child(2){
-  flex: 1 auto;
+.server-block > div:nth-child(2) {
+    flex: 1 auto;
+    min-width: 0;
 }
 
 .rating-block .server-block h3 {
@@ -2284,8 +2302,10 @@ background-color:  #fe0002;
 }
 
 .rating-block .server-block h3 {
-    height: 30px;
+    text-overflow: ellipsis;
     overflow: hidden;
+    white-space: nowrap;
+    max-width: 100%;
 }
 
 

@@ -107,7 +107,7 @@
                       <div class="adver-item">
                         <div>
                           <div class="advertising-icon">
-                            <img src="img/balance.png" alt="">
+                            <img src="img/cp-euro.svg" alt="">
                           </div>
                         </div>
                         <div>

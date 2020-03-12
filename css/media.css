@@ -888,6 +888,10 @@ span.name-link {
     display: inline-block;
     height: 20px;
     overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    max-width: calc(100% - 55px);
+    min-width: 0;
 }
 
 }
@@ -906,8 +910,14 @@ span.name-link {
     padding: 0 10px;
   }
 
-  .rating-block .server-block p {
-    height: 26px;
+.rating-block .server-block p {
+    height: auto;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    white-space: normal;
 }
 
   .vip-table-flex .rates,
@@ -949,6 +959,10 @@ span.name-link {
   .logo img {
     height: 27px;
   }
+
+  span.name-link {
+    max-width: calc(100% - 25px);
+}
 
   .header {
     padding: 10px 0;
@@ -1187,14 +1201,14 @@ span.name-link {
     line-height: 22px;
   }
 
-  .rating-block .server-block h3 {
+.rating-block .server-block h3 {
     margin-left: 25px;
     font-size: 14px;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-    max-width: 385px;
-  }
+    max-width: calc(100% - 25px);
+}
   .view-flex {
     flex-wrap: wrap;
   }
@@ -1403,9 +1417,6 @@ span.name-link {
     margin: 5px 0 10px;
   }
 
-  .rating-block .server-block h3 {
-    max-width: 300px;
-  }
 
 .vip-table-flex .rates span {
     display: block;
@@ -1467,7 +1478,8 @@ span.name-link {
     width: 80px;
   }
 
-  .rating-block .server-block h3 {
-    max-width: 240px;
-  }
+span.name-link {
+    max-width: calc(100% - 5px);
+}
+
 }
