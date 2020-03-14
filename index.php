@@ -1116,6 +1116,8 @@
       <div class="row">
         <div class="col-lg-12">
 
+          <div class="footer-text">
+
          <div class="top-footer-text">
                <p>Lineage 2 Servers Rating</p>
              </div>
@@ -1154,7 +1156,14 @@
              </p>
 
 
-             <div class="top-footer-text">
+             
+
+
+
+
+             <div class="footer-content">
+
+              <div class="top-footer-text">
                <p>Recommendations from consultants</p>
              </div>
 
@@ -1171,14 +1180,7 @@
                   <br>● Among the L2 servers there are platforms where only experienced and top players appear. Choose a server according to your preferred game style
                   <br><br>For a beginner who is not familiar with the world of Lineage 2, it will be convenient to start playing on a highly rated server with those players who speak familiar language and live in close time zones.
              </p>
-
-
-
-
-             <div class="footer-content">
-
-
-             
+ 
 
              <div class="top-footer-text">
                <p>New L2 server ratings</p>
@@ -1207,6 +1209,7 @@
 
              </p>
 
+             </div>
              </div>
 
              <div class="footer-button">

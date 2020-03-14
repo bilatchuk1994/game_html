@@ -92,6 +92,11 @@
   .server-benefits {
     margin-left: 10px;
   }
+
+.server-img img {
+    width: 100%;
+}
+
 }
 
 /* Medium Devices, Desktops */
@@ -687,7 +692,16 @@
 
   .rating-block p {
     padding-left: 0;
+    max-width: 480px;
   }
+
+  .server-info {
+    max-width: 480px;
+}
+
+.server-bottom-flex {
+    max-width: 565px;
+}
 
   .contact-item .icon {
     margin-right: 10px;
@@ -886,7 +900,6 @@
 
 span.name-link {
     display: inline-block;
-    height: 20px;
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
@@ -1479,7 +1492,7 @@ span.name-link {
   }
 
 span.name-link {
-    max-width: calc(100% - 5px);
+    max-width: 120px;
 }
 
 }

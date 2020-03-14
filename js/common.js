@@ -95,14 +95,6 @@ function damaxToggleMenu() {
   });
 }
 
-$(document).mouseup(function (e){ // событие клика по веб-документу
-    var div = $(".menu-nav"); // тут указываем ID элемента
-    if (screen.width < 992 && !div.is(e.target) // если клик был не по нашему блоку
-        && div.has(e.target).length === 0) { // и не по его дочерним элементам
-      div.hide(); // скрываем его
-      $("#toggle").removeClass(" on");
-    }
-  });
 
 $("#banner-select").change(function() {
   $(".buy-server-block .flex-center").removeClass("active");

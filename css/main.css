@@ -3319,7 +3319,6 @@ background-color:  #fe0002;
     position: relative;
     display: block;
     padding-bottom: 10px;
-    border-bottom: 2px solid #fff;
 }
 
 .footer p span {
@@ -3360,6 +3359,11 @@ background-color:  #fe0002;
     position: relative;
     padding-bottom: 15px;
     border-bottom: 2px solid #fff;
+}
+
+.footer-text {
+    border-top: 2px solid #fff;
+    padding-top: 20px;
 }
 
 .footer-button  a {
