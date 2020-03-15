@@ -97,6 +97,10 @@
     width: 100%;
 }
 
+.rating-block span.name-link {
+    max-width: 173px;
+}
+
 }
 
 /* Medium Devices, Desktops */
