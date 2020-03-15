@@ -907,6 +907,18 @@ span.name-link {
     min-width: 0;
 }
 
+.vote-rating-title {
+    margin: 0 0 15px;
+}
+
+.vote-rating {
+    margin: 0 0px;
+}
+
+.vote-flex-btn a {
+    margin: 0 2px 5px;
+}
+
 }
 
 /* Extra Small Devices, Phones */

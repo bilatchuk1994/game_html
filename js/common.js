@@ -96,6 +96,15 @@ function damaxToggleMenu() {
 }
 
 
+$(document).click(function(event) {
+    if ($(event.target).closest(".menu-nav").length || $(event.target).closest("#toggle").length) return;
+    $(".menu-nav").slideToggle();
+    $("body").removeClass(" menu_expanded");
+    $("#toggle").removeClass(" on");
+    event.stopPropagation();
+  });
+
+
 $("#banner-select").change(function() {
   $(".buy-server-block .flex-center").removeClass("active");
   $("." + $(this).val()).addClass("active");

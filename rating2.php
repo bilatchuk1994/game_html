@@ -90,8 +90,10 @@
 
                       <div>
                         <div>
-                          <a href="" class="btn-vote"><img src="img/vote.png"> VOTE <span>40782</span></a>
+                          <div class="vote-flex-btn">
+                            <a href="" class="btn-vote"><img src="img/vote.png"> VOTE <span>40782</span></a>
                           <a href="" class="btn-vote btn-vote-red" >GO TO WEBSITE</a>
+                          </div>
                         </div>
                       </div>
                     </div>

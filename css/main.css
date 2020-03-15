@@ -3269,6 +3269,20 @@ background-color:  #fe0002;
   color: rgb(82, 138, 207);
 }
 
+.vote-flex-btn {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.vote-flex-btn a{
+  margin: 0 0 5px;
+}
+
+
+
+
 /*======== beg Footer ========*/
 .footer {
     background-color: #242424;
