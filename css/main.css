@@ -3285,6 +3285,16 @@ background-color:  #fe0002;
     font-style: normal;
 }
 
+.vote-flex-btn a {
+    margin-left: 4px;
+}
+
+.rating-block span.name-link {
+    overflow: hidden;
+    max-width: 181px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
 
 
 /*======== beg Footer ========*/
@@ -3333,10 +3343,10 @@ background-color:  #fe0002;
     color: rgb(255, 255, 255);
     line-height: 1.2;
     text-align: left;
-    margin: 0 0 27px;
+    margin: 0 0 15px;
     position: relative;
     display: block;
-    padding-bottom: 10px;
+    padding-bottom: 0px;
 }
 
 .footer p span {

@@ -104,6 +104,11 @@
   .view-server {
     margin-left: 0px;
   }
+
+.rating-block .server-block h3 {
+    max-width: 480px;
+}
+
   .vip-buy-col {
     margin-right: 0px;
   }
@@ -445,10 +450,11 @@
     display: none;
   }
 
-  .server-wrapper .name {
+.server-wrapper .name {
     padding-left: 8px;
     flex: 1 auto;
-  }
+    width: 200px;
+}
 
   .server-wrapper .name p {
     line-height: 0.7;
@@ -716,6 +722,12 @@
   .server-wrapper .name a {
     font-size: 16px;
   }
+
+
+.rating-block .server-block h3 {
+    max-width: 480px;
+}
+
   .server-wrapper .votes {
     padding-left: 0px;
     width: 100px;
@@ -925,6 +937,14 @@ span.name-link {
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+}
+
+}
+
+@media only screen and (max-width: 635px) {
+
+.rating-block .server-block h3 {
+    max-width: 100%;
 }
 
 }
@@ -1362,6 +1382,11 @@ span.name-link {
     overflow: hidden;
     text-overflow: ellipsis;
   }
+
+.rating-block .server-wrapper .rates p{
+  text-align: center;
+}
+
 }
 
 @media only screen and (max-width: 460px) {
@@ -1518,5 +1543,6 @@ span.name-link {
 span.name-link {
     max-width: 120px;
 }
+
 
 }
