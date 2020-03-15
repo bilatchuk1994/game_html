@@ -919,6 +919,14 @@ span.name-link {
     margin: 0 2px 5px;
 }
 
+.vote-rating-title .vote-flex h3 i {
+    font-style: normal;
+    max-width: 210px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
 }
 
 /* Extra Small Devices, Phones */
@@ -929,6 +937,10 @@ span.name-link {
 
   .server-img {
   height: auto;
+}
+
+.vote-rating-title .vote-flex h3 i {
+    max-width: 245px;
 }
 
   .container {

@@ -98,7 +98,7 @@ function damaxToggleMenu() {
 
 $(document).click(function(event) {
     if ($(event.target).closest(".menu-nav").length || $(event.target).closest("#toggle").length) return;
-    $(".menu-nav").slideToggle();
+    $(".menu-nav").slideUp();
     $("body").removeClass(" menu_expanded");
     $("#toggle").removeClass(" on");
     event.stopPropagation();

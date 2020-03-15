@@ -1128,7 +1128,7 @@ background-color:  #fe0002;
     color: rgb(47, 47, 47);
     font-weight: bold;
     text-align: center;
-    margin: 0 0 16px;
+    margin: 0 0 10px;
 }
 
 .vote-block p {
@@ -2987,7 +2987,7 @@ background-color:  #fe0002;
 }
 
 .comments {
-    padding: 30px 10px 0;
+    padding: 20px 10px 0;
 }
 
 .comments > div:nth-child(odd){
@@ -3280,6 +3280,10 @@ background-color:  #fe0002;
   margin: 0 0 5px;
 }
 
+
+.vote-rating-title .vote-flex h3 i {
+    font-style: normal;
+}
 
 
 

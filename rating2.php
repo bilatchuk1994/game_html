@@ -84,7 +84,7 @@
                     <div class="vote-rating-title-flex">
                       <div class="vote-flex">
                         <div>
-                          <h3>L2MAD.NET <span>Interlude</span></h3>
+                          <h3><i>L2MAD.NET</i> <span>Interlude</span></h3>
                         </div>
                       </div>
 
