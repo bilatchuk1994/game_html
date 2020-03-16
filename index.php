@@ -1168,14 +1168,14 @@
              </div>
 
              <p>
-               ● Lineage 2 servers of the VIP section are guaranteed long-term projects with a high level of funding and serious technical support. Here, players feel as comfortable as possible, the administration promptly responds to the arising problems and actively promotes all the new items from creators.
-               <br>● The servers rating based on the players’ voting will also help you to navigate.
-               <br>● Server rate. Pay attention to the choice of bets:
-                  <br><span>● low rate classic x3,</span>
-                  <br><span>● craft x50 и x100,</span>
-                  <br><span>● mid-rate x75,</span>
-                  <br><span>● pvp x500,</span>
-                  <br><span>● custom x999.</span>
+               Lineage 2 servers of the VIP section are guaranteed long-term projects with a high level of funding and serious technical support. Here, players feel as comfortable as possible, the administration promptly responds to the arising problems and actively promotes all the new items from creators.
+               <br>The servers rating based on the players’ voting will also help you to navigate.
+               <br>Server rate. Pay attention to the choice of bets:
+                  <br>● low rate classic x3,
+                  <br>● craft x50 и x100,
+                  <br>● mid-rate x75,
+                  <br>● pvp x500,
+                  <br>● custom x999.
                   <br> High rates – the character is upgraded by leaps and bounds, generous bonuses and frequency of high-quality drop are at their best. Low rate is for "hard-cores". Maximum resistance from monsters and tasks of immense complexity.
                   <br>● Among the L2 servers there are platforms where only experienced and top players appear. Choose a server according to your preferred game style
                   <br><br>For a beginner who is not familiar with the world of Lineage 2, it will be convenient to start playing on a highly rated server with those players who speak familiar language and live in close time zones.

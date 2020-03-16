@@ -101,6 +101,14 @@
     max-width: 173px;
 }
 
+.server-info {
+    max-width: 480px;
+}
+
+.rating-block .server-block h3 {
+  max-width: 480px;
+}
+
 }
 
 /* Medium Devices, Desktops */
@@ -290,10 +298,6 @@
   .footer {
     background-color: #242424;
     padding: 35px 0px 30px;
-  }
-
-  .footer p {
-    text-align: center;
   }
 
   .container {
@@ -739,9 +743,6 @@
   .mob-control a {
     font-size: 16px;
   }
-  .footer p {
-    font-size: 16px;
-  }
   .vip-table-flex .rates,
   .vip-table-flex .version,
   .vip-table-flex .date {
@@ -941,6 +942,10 @@ span.name-link {
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+}
+
+.rating-block span.name-link {
+    max-width: 133px;
 }
 
 }

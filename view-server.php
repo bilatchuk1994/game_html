@@ -133,7 +133,7 @@
                           <a href="">L2DAMAGE.COM</a>
                         </div>
                         <div class="star"><img src="img/star.png" title="Premium Server" alt=""></div>
-                        <div class="rates"> x100</div>
+                        <div class="rates"> <span>x100</span></div>
                         <div class="version">Interlude</div>
                         <div class="date">01.03.19</div>
                       </div>

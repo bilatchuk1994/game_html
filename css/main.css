@@ -3296,6 +3296,10 @@ background-color:  #fe0002;
     white-space: nowrap;
 }
 
+.premium-block .server-img{
+  height: auto;
+}
+
 
 /*======== beg Footer ========*/
 .footer {
