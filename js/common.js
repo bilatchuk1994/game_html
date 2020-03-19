@@ -91,7 +91,7 @@ function damaxToggleMenu() {
   $(".footer-button  a").click(function(e) {
     e.preventDefault();
     $(".footer-content").slideToggle();
-    $(".footer-button").hide();
+    $(".footer-button a").hide();
   });
 }
 

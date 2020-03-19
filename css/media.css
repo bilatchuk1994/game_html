@@ -1532,9 +1532,10 @@ span.name-link {
     margin: 0 0 15px;
   }
 
-  .buy-server-block {
+.buy-server-block {
     margin: 20px auto 0;
-  }
+    margin-left: -10px;
+}
 
   .vip-table-flex .name a {
     font-size: 13.3px;
