@@ -380,7 +380,7 @@
                     <a class="flex-start" href=""><span class="name-link">L2WARLAND.COM</span> <span class="label-link">High Five</span></a>
                     <p class="hidden-desc"><a href=""> Comments: 54</a></p>
                   </div>
-                  <div class="rates">x100
+                  <div class="rates"><span>x100</span>
                     <p class="hidden-lg">Interlude</p>
                   </div>
                   <div class="version">Interlude</div>
@@ -470,7 +470,7 @@
                     <a class="flex-start" href=""><span class="name-link">L2WARLAND.COM</span></a>
                     <p class="hidden-desc"><a href=""> Comments: 54</a></p>
                   </div>
-                  <div class="rates">x100
+                  <div class="rates"><span>x100</span>
                     <p class="hidden-lg">Interlude</p>
                   </div>
                   <div class="version">Interlude</div>
