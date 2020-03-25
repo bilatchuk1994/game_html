@@ -96,13 +96,21 @@ function damaxToggleMenu() {
 }
 
 
+$('#toggle').click(function(e){
+    e.stopPropagation();
+});
+
 $(document).click(function(event) {
-    if ($(event.target).closest(".menu-nav").length || $(event.target).closest("#toggle").length) return;
-    $(".menu-nav").slideUp();
-    $("body").removeClass(" menu_expanded");
-    $("#toggle").removeClass(" on");
-    event.stopPropagation();
-  });
+    if ($('body').hasClass('menu_expanded')){
+        $(".menu-nav").slideUp();
+        $("body").removeClass(" menu_expanded");
+        $("#toggle").removeClass(" on");
+        event.stopPropagation();
+    }
+});
+
+
+
 
 
 $("#banner-select").change(function() {
