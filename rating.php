@@ -84,6 +84,24 @@
                       <li>Cabinets</li>
                     </ul>
                   </div>
+
+                  <div class="hidden-desc mob-control">
+                    <div class="row">
+                      <div class="col-lg-12">
+                        <select>
+                          <option value="">Select chronicle</option>
+                          <option value="">All</option>
+                          <option value="">Interlude</option>
+                          <option value="">High five</option>
+                          <option value="">Classic</option>
+                          <option value="">Gracia final</option>
+                          <option value="">Gve</option>
+                          <option value="">God</option>
+                          <option value="">Epilogue</option>
+                        </select>
+                      </div>
+                    </div>
+                  </div>
                   
 
                   <div class="server-title">
