@@ -970,7 +970,7 @@ span.name-link {
 }
 
 .rating-block .premium-block .server-block h3 {
-    max-width: calc(100% - 25px);
+    max-width: 100%;
 }
 
 }

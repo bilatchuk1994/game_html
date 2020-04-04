@@ -2393,7 +2393,7 @@ background-color:  #fe0002;
 
 .server-info a{
   height: 22px;
-  display: block;
+  display: inline-block;
 }
 
 .server-info ul li a img {
