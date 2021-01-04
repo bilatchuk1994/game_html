@@ -21,7 +21,23 @@
               </a>
             </div>
           </div>
-          <div class="col-6 col-lg-8">
+          <div class="col-3 col-lg-1">
+            <div class="lang">
+              <ul>
+                <li class="lang-current">
+                  <span>RU</span>
+                  <img src="img/ru.png" alt="Icon">
+                </li>
+                <li>
+                  <a href="">
+                    <span>ENG</span>
+                    <img src="img/eng.png" alt="Icon">
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-3 col-lg-7">
             <nav class="menu-nav">
             <div>
               <ul class="menu">
@@ -67,215 +83,19 @@
         </div>
         <div class="main-block">
           <div class="site-row">
-            <div class="left-col">
-              <h2>Lineage 2 Private Servers <span>Top 10</span></h2>
+            <div class="left-col title-page-wr">
+              <h2>Lineage 2 private servers</h2>
+            </div>
+            <div class="ip-page">
+              <span>You IP : 31.128.79.134</span>
+              <div class="ip-page-fb">
+                <img src="img/fb-like.png" alt="Like">
+              </div>
             </div>
           </div>
           <div class="site-row">
             <div class="left-col">
 
-              <div class="servers-wrapper">
-
-                <div class="server-wrapper">
-                  <div class="position hidden-mob">1</div>
-                  <div class="icon">
-                    <img src="img/gold.png" alt="">
-                  </div>
-                  <div class="name">
-                    <a class="flex-start" href=""><span class="name-link">L2WARLAND.COM</span> <span class="label-link">High Five</span></a>
-                    <p class="hidden-desc"><a href=""> Comments: 54</a></p>
-                  </div>
-                  <div class="rates">x100
-                    <p class="hidden-lg">Interlude</p>
-                  </div>
-                  <div class="version">Interlude</div>
-                  <div class="open-date"><a href=""> Comments: 54</a></div>
-                  <div class="votes">
-                    <a href=""><img src="img/like.png" alt=""> 58390</a>
-                  </div>
-                </div>
-
-                <div class="server-wrapper">
-                  <div class="position hidden-mob">2</div>
-                  <div class="icon">
-                    <img src="img/silver.png" alt="">
-                  </div>
-                  <div class="name">
-                    <a class="flex-start" href=""><span class="name-link">ETERNAL.MS</span> <span class="label-link interlude">Interlude</span></a>
-                    <p class="hidden-desc"><a href=""> Comments: 54</a></p>
-                  </div>
-                  <div class="rates">x1200
-                    <p class="hidden-lg">Interlude</p>
-                  </div>
-                  <div class="version">Interlude</div>
-                  <div class="open-date"><a href=""> Comments: 54</a></div>
-                  <div class="votes">
-                    <a href=""><img src="img/like.png" alt=""> 5411</a>
-                  </div>
-                </div>
-
-                <div class="server-wrapper">
-                  <div class="position hidden-mob">3</div>
-                  <div class="icon">
-                    <img src="img/bronze.png" alt="">
-                  </div>
-                  <div class="name">
-                    <a class="flex-start" href=""><span class="name-link">INTERLUDE.SU</span> <span class="label-link interlude">Interlude</span></a>
-                    <p class="hidden-desc"><a href=""> Comments: 54</a></p>
-                  </div>
-                  <div class="rates">x1200
-                      <p class="hidden-lg">High Five</p>
-                  </div>
-                  <div class="version">High Five</div>
-                  <div class="open-date"><a href=""> Comments: 54</a></div>
-                  <div class="votes">
-                    <a href=""><img src="img/like.png" alt=""> 5398</a>
-                  </div>
-                </div>
-
-                <div class="server-wrapper">
-                  <div class="position">4</div>
-                  <div class="icon hidden-mob">
-                    <img src="img/top.png" alt="">
-                  </div>
-                  <div class="name">
-                    <a class="flex-start" href=""><span class="name-link">L2GREEN.RU</span> <span class="label-link" >High Five</span></a>
-                    <p class="hidden-desc"><a href=""> Comments: 54</a></p>
-                  </div>
-                  <div class="rates">x1200
-                    <p class="hidden-lg">High Five</p>
-                  </div>
-                  <div class="version">High Five</div>
-                  <div class="open-date"><a href=""> Comments: 54</a></div>
-                  <div class="votes">
-                    <a href=""><img src="img/like.png" alt=""> 5411</a>
-                  </div>
-                </div>
-
-                <div class="server-wrapper">
-                  <div class="position">5</div>
-                  <div class="icon hidden-mob">
-                    <img src="img/top.png" alt="">
-                  </div>
-                  <div class="name">
-                    <a class="flex-start" href=""><span class="name-link">INTERLUDE.SU</span> <span class="label-link epilogue">Epilogue</span></a>
-                    <p class="hidden-desc"><a href=""> Comments: 54</a></p>
-                  </div>
-                  <div class="rates">x1200
-                    <p class="hidden-lg">Interlude</p>
-                  </div>
-                  <div class="version">Interlude</div>
-                  <div class="open-date"><a href=""> Comments: 54</a></div>
-                  <div class="votes">
-                    <a href=""><img src="img/like.png" alt=""> 5411</a>
-                  </div>
-                </div>
-
-                <div class="server-wrapper">
-                  <div class="position">6</div>
-                  <div class="icon hidden-mob">
-                    <img src="img/top.png" alt="">
-                  </div>
-                  <div class="name">
-                    <a class="flex-start" href=""><span class="name-link">ETERNAL.MS</span> <span class="label-link interlude">Interlude</span></a>
-                    <p class="hidden-desc"><a href=""> Comments: 54</a></p>
-                  </div>
-                  <div class="rates">x1200
-                    <p class="hidden-lg">High Five</p>
-                  </div>
-                  <div class="version">High Five</div>
-                  <div class="open-date"><a href=""> Comments: 54</a></div>
-                  <div class="votes">
-                    <a href=""><img src="img/like.png" alt=""> 5411</a>
-                  </div>
-                </div>
-
-                <div class="server-wrapper">
-                  <div class="position">7</div>
-                  <div class="icon hidden-mob">
-                    <img src="img/top.png" alt="">
-                  </div>
-                  <div class="name">
-                    <a class="flex-start" href=""><span class="name-link">KETRWARS.NET</span> <span class="label-link interlude">Interlude</span></a>
-                    <p class="hidden-desc"><a href=""> Comments: 54</a></p>
-                  </div>
-                  <div class="rates">x1200
-                    <p class="hidden-lg">Interlude</p>
-                  </div>
-                  <div class="version">Interlude</div>
-                  <div class="open-date"><a href=""> Comments: 54</a></div>
-                  <div class="votes">
-                    <a href=""><img src="img/like.png" alt=""> 5411</a>
-                  </div>
-                </div>
-
-                <div class="server-wrapper not-bold">
-                  <div class="position">8</div>
-                  <div class="icon hidden-mob">
-                    <img src="img/top.png" alt="">
-                  </div>
-                  <div class="name">
-                    <a class="flex-start" href=""><span class="name-link">euro-pvp.com</span></a>
-                    <p class="hidden-desc"><a href=""> Comments: 54</a></p>
-                  </div>
-                  <div class="rates">x1200
-                    <p class="hidden-lg">Interlude</p>
-                  </div>
-                  <div class="version">Interlude</div>
-                  <div class="open-date"><a href=""> Comments: 54</a></div>
-                  <div class="votes">
-                    <a href=""><img src="img/like.png" alt=""> 5411</a>
-                  </div>
-                </div>
-
-                <div class="server-wrapper">
-                  <div class="position">9</div>
-                  <div class="icon hidden-mob">
-                    <img src="img/top.png" alt="">
-                  </div>
-                  <div class="name">
-                    <a class="flex-start" href=""><span class="name-link">DESTORUS.RU</span>  <span class="label-link">High Five</span></a>
-                    <p class="hidden-desc"><a href=""> Comments: 54</a></p>
-                  </div>
-                  <div class="rates">x1200
-                    <p class="hidden-lg">Interlude</p>
-                  </div>
-                  <div class="version">Interlude</div>
-                  <div class="open-date"><a href=""> Comments: 54</a></div>
-                  <div class="votes">
-                    <a href=""><img src="img/like.png" alt=""> 5411</a>
-                  </div>
-                </div>
-
-                <div class="server-wrapper">
-                  <div class="position">10</div>
-                  <div class="icon hidden-mob">
-                    <img src="img/top.png" alt="">
-                  </div>
-                  <div class="name">
-                    <a class="flex-start" href=""><span class="name-link">THEMEGA.RU</span> <span class="label-link interlude">Interlude</span></a>
-                    <p class="hidden-desc"><a href=""> Comments: 54</a></p>
-                  </div>
-                  <div class="rates">x1200
-                    <p class="hidden-lg">Interlude</p>
-                  </div>
-                  <div class="version">Interlude</div>
-                  <div class="open-date"><a href=""> Comments: 54</a></div>
-                  <div class="votes">
-                    <a href=""><img src="img/like.png" alt=""> 5411</a>
-                  </div>
-                </div>
-
-                <div class="row">
-                  <div class="col-12">
-                    <div class="btn-all flex-center">
-                      <a class="view-all" href="">VIEW ALL VOTE SERVERS</a>
-                    </div>
-                  </div>
-                </div>
-
-              </div>
-                
                 <div class="vip-servers">
                   <div class="hidden-desc mob-control">
                     <div class="row">
@@ -442,7 +262,9 @@
                         <div class="star"></div>
                         <div class="rates"><span>x100</span></div>
                         <div class="version">Interlude</div>
-                        <div class="date">Today</div>
+                        <div class="date">
+                          <span>Today</span>
+                        </div>
                       </div>
 
                       <div class="vip-table-flex vip-free">
@@ -455,7 +277,9 @@
                         <div class="star"></div>
                         <div class="rates"><span>x100</span></div>
                         <div class="version">Interlude</div>
-                        <div class="date">Today</div>
+                        <div class="date">
+                          <span>Today</span>
+                        </div>
                       </div>
 
                       </div>
@@ -500,7 +324,9 @@
                         <div class="star"></div>
                         <div class="rates"><span>x100</span></div>
                         <div class="version">Interlude</div>
-                        <div class="date">Tomorrow</div>
+                        <div class="date">
+                          <span>Tomorrow</span>
+                        </div>
                       </div>
                       </div>
 
@@ -684,10 +510,10 @@
                         <div class="version">Interlude</div>
                         <div class="date">01.03.19</div>
                       </div>
-                      </div>
-
- </div>
                     </div>
+
+                  </div>
+                </div>
 
 
                     <div class="col-lg-6">
@@ -743,7 +569,7 @@
                           <a href="">L2DAMAGE.COM</a>
                         </div>
                         <div class="star"><img src="img/star.png" title="Premium Server" alt=""></div>
-                        <div class="rates"> <span>x100k</span></div>
+                        <div class="rates"> <span>x100</span></div>
                         <div class="version">Interlude</div>
                         <div class="date">01.03.19</div>
                       </div>
@@ -790,7 +616,7 @@
                         <div class="star"><img src="img/star.png" title="Premium Server" alt=""></div>
                         <div class="rates"> <span>x100</span></div>
                         <div class="version">Interlude</div>
-                        <div class="date"><span class="tomorrow">Yesterday</span></div>
+                        <div class="date"><span class="yesterday">Yesterday</span></div>
                       </div>
                       <div class="vip-table-flex vip-blue">
                         <div>
@@ -802,7 +628,7 @@
                         <div class="star"></div>
                         <div class="rates"><span> x100</span></div>
                         <div class="version">Interlude</div>
-                        <div class="date"><span class="tomorrow">Yesterday</span></div>
+                        <div class="date"><span class="yesterday">Yesterday</span></div>
                       </div>
                       <div class="vip-table-flex vip-free">
                         <div>
@@ -812,9 +638,11 @@
                           <a href="">l2amerika.com</a>
                         </div>
                         <div class="star"></div>
-                        <div class="rates"> <span>x100k</span></div>
+                        <div class="rates"> <span>x100</span></div>
                         <div class="version">Interlude</div>
-                        <div class="date">Yesterday</div>
+                        <div class="date">
+                          <span>Yesterday</span>
+                        </div>
                       </div>
                       </div>
 
@@ -1026,82 +854,336 @@
                     </div>
                     </div>
                   </div>
+
+                <div class="row">
+                  <div class="col-12">
+                    <div class="btn-all flex-center">
+                      <a class="view-all" href="">VIEW ALL OPENING SERVERS</a>
+                    </div>
+                  </div>
                 </div>
+
+                </div>
+
+                  <div class="servers-top">
+
+                  <div class="site-row">
+                    <div class="left-col">
+                      <h2>Lineage 2 Private Servers <span>Top 10</span></h2>
+                    </div>
+                  </div>
+
+                  <div class="server-title">
+                   <div>
+                     <div class="server-title-block rank">RANK</div>
+                   </div>
+                   <div>
+                     <div class="server-title-block server-desk">SERVER DESCRIPTION</div>
+                   </div>
+                   <div>
+                     <div class="server-title-block ser-details">DETAILS</div>
+                   </div>
+                 </div>
+
+
+                 <div class="server-item server-top-item">
+
+                   <div class="server-block">
+                     <div>
+                       <div class="server-number">
+                         3
+                       </div>
+                       <div class="flex-center">
+                         <a class="detail" href="">Details <i class="far fa-search"></i></a>
+                       </div>
+                     </div>
+                     <div>
+                      <a href=""><h3>Eternalwars - Fafurion PVP</h3></a>
+                      <div class="server-img">
+                        <img src="img/server-banner.jpg" alt="">
+                      </div>
+                      <p>NEW! Interlude x100 . Grand Opening 27 Jule ! Online 2000+ | 1150$ FOR TOP 3 BEST CLANS! | Stable Online | JUST TRY!</p>
+                      <div class="server-info">
+                        <div>
+                          <ul>
+                            <li><a href="">http://l2mad.ws</a></li>
+                            <li><a href=""><img src="img/comments.png" alt=""> <span>Comments:</span> 54</a></li>
+                          </ul>
+                        </div>
+                        <div>
+                          <a href=""><img src="img/like-facebook.png" alt=""></a>
+                        </div>
+                      </div>
+                    </div>
+                    <div>
+                     <div class="vote-for-server">
+                      <div class="for-server-top">
+                        PREMIUM SERVER
+                      </div>
+                      <div class="for-server-body">
+                       <ul>
+                        <li>Chronicle: <span>Interlude</span></li>
+                        <li>Rates: <span>x100</span></li>
+                        <li>Start: <span>17.08.19</span></li>
+                        <li>Votes: <span>3961</span></li>
+                      </ul>
+                      <a class="vote-btn flex-center" href="">VOTE FOR SERVER</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="server-bottom">
+                <div class="server-bottom-flex">
+                  <div>
+                    <ul>
+                      <li>Chronicle: <span>Interlude</span></li>
+                      <li>Rates: <span>x100</span></li>
+                      <li>Start: <span>17.08.19</span></li>
+                      <li>Votes: <span>3961</span></li>
+                    </ul>
+                  </div>
+                  <div>
+                    <a class="vote-btn flex-center" href="">VOTE FOR SERVER</a>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+
+      <div class="server-item">
+
+       <div class="server-block">
+         <div>
+           <div class="server-number">
+             3
+           </div>
+           <div class="flex-center">
+             <a class="detail" href="">Details <i class="far fa-search"></i></a>
+           </div>
+         </div>
+         <div>
+          <a href=""><h3>Eternalwars - Fafurion PVP</h3></a>
+          <p>NEW! Interlude x100 . Grand Opening 27 Jule ! Online 2000+ | 1150$ FOR TOP 3 BEST CLANS! | Stable Online | JUST TRY!</p>
+          <div class="server-info">
+            <div>
+              <ul>
+                <li><a href="">http://l2mad.ws</a></li>
+                <li><a href=""><img src="img/comments.png" alt=""> <span>Comments:</span> 54</a></li>
+              </ul>
+            </div>
+            <div>
+              <a href=""><img src="img/like-facebook.png" alt=""></a>
+            </div>
+          </div>
+        </div>
+        <div>
+         <div class="vote-for-server">
+           <div class="for-server-body">
+             <ul>
+              <li>Chronicle: <span>Interlude</span></li>
+              <li>Rates: <span>x100</span></li>
+              <li>Start: <span>17.08.19</span></li>
+              <li>Votes: <span>3961</span></li>
+            </ul>
+            <a class="vote-btn flex-center" href="">VOTE FOR SERVER</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="server-bottom">
+      <div class="server-bottom-flex">
+        <div>
+          <ul>
+            <li>Chronicle: <span>Interlude</span></li>
+            <li>Rates: <span>x100</span></li>
+            <li>Start: <span>17.08.19</span></li>
+            <li>Votes: <span>3961</span></li>
+          </ul>
+        </div>
+        <div>
+          <a class="vote-btn flex-center" href="">VOTE FOR SERVER</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+</div>
 
             </div>
             <div class="right-col">
               <div class="right-banner object-fit">
                 <a href=""><img src="img/right-banner.jpg" alt=""></a>
               </div>
-               <div class="chronicle">
-                  <h3>CHRONICLE</h3>
-                  <div class="chronicle-block">
-                    <div class="check-flex check-bold">
-                      <div>
-                        <a class="active" href="">ALL</a>
-                      </div>
-                      <div>
-                        <span>634</span>
-                      </div>
+              <div class="chronicle">
+                <h3>CHRONICLE</h3>
+                <div class="chronicle-block">
+                  <div class="check-flex check-bold">
+                    <div>
+                      <a class="active" href="">ALL</a>
                     </div>
-                    <div class="check-flex check-bold">
-                      <div>
-                        <a href="">INTERLUDE</a>
-                      </div>
-                      <div>
-                        <span>288</span>
-                      </div>
-                    </div>
-                    <div class="check-flex check-bold">
-                      <div>
-                        <a href="">HIGH FIVE</a>
-                      </div>
-                      <div>
-                        <span>156</span>
-                      </div>
-                    </div>
-                    <div class="check-flex">
-                      <div>
-                        <a href="">CLASSIC</a>
-                      </div>
-                      <div>
-                        <span>33</span>
-                      </div>
-                    </div>
-                    <div class="check-flex">
-                      <div>
-                        <a href="">GRACIA FINAL</a>
-                      </div>
-                      <div>
-                        <span>25</span>
-                      </div>
-                    </div>
-                    <div class="check-flex">
-                      <div>
-                        <a href="">GVE</a>
-                      </div>
-                      <div>
-                        <span>15</span>
-                      </div>
-                    </div>
-                    <div class="check-flex">
-                      <div>
-                        <a href="">GOD</a>
-                      </div>
-                      <div>
-                        <span>12</span>
-                      </div>
-                    </div>
-                    <div class="check-flex check-small">
-                      <div>
-                        <a href="">EPILOGUE</a>
-                      </div>
-                      <div>
-                        <span>7</span>
-                      </div>
+                    <div>
+                      <span>301</span>
                     </div>
                   </div>
-               </div>
+                  <div class="check-flex">
+                    <div>
+                      <a href="">INTERLUDE</a>
+                    </div>
+                    <div>
+                      <span>188</span>
+                    </div>
+                  </div>
+                  <div class="check-flex">
+                    <div>
+                      <a href="">HIGH FIVE</a>
+                    </div>
+                    <div>
+                      <span>72</span>
+                    </div>
+                  </div>
+                  <div class="check-flex check-low">
+                    <div>
+                      <a href="">CLASSIC</a>
+                    </div>
+                    <div>
+                      <span>18</span>
+                    </div>
+                  </div>
+                  <div class="check-flex check-low">
+                    <div>
+                      <a href="">FAFURION</a>
+                    </div>
+                    <div>
+                      <span>9</span>
+                    </div>
+                  </div>
+                  <div class="check-flex check-low">
+                    <div>
+                      <a href="">EPILOGUE</a>
+                    </div>
+                    <div>
+                      <span>6</span>
+                    </div>
+                  </div>
+                  <div class="check-flex check-low">
+                    <div>
+                      <a href="">C4</a>
+                    </div>
+                    <div>
+                      <span>6</span>
+                    </div>
+                  </div>
+                  <div class="check-flex check-low">
+                    <div>
+                      <a href="">GVE</a>
+                    </div>
+                    <div>
+                      <span>6</span>
+                    </div>
+                  </div>
+                  <div class="check-flex check-small">
+                    <div>
+                      <a href="">GRACIA FINAL</a>
+                    </div>
+                    <div>
+                      <span>1</span>
+                    </div>
+                  </div>
+                  <div class="check-flex check-small">
+                    <div>
+                      <a href="">GRAND CRUSADE</a>
+                    </div>
+                    <div>
+                      <span>1</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="chronicle">
+                <h3>CRITERIONS</h3>
+                <div class="chronicle-block">
+                  <div class="check-flex">
+                    <div>
+                      <a href="">PVP</a>
+                    </div>
+                    <div>
+                      <span>118</span>
+                    </div>
+                  </div>
+                  <div class="check-flex">
+                    <div>
+                      <a href="">MID-RATE</a>
+                    </div>
+                    <div>
+                      <span>110</span>
+                    </div>
+                  </div>
+                  <div class="check-flex">
+                    <div>
+                      <a href="">LOW-RATEE</a>
+                    </div>
+                    <div>
+                      <span>88</span>
+                    </div>
+                  </div>
+                  <div class="check-flex check-low">
+                    <div>
+                      <a href="">CUSTOM</a>
+                    </div>
+                    <div>
+                      <span>57</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="chronicle">
+                <h3>RATES</h3>
+                <div class="chronicle-block">
+                  <div class="check-flex">
+                    <div>
+                      <a href="">x100</a>
+                    </div>
+                    <div>
+                      <span>118</span>
+                    </div>
+                  </div>
+                  <div class="check-flex">
+                    <div>
+                      <a href="">x50</a>
+                    </div>
+                    <div>
+                      <span>110</span>
+                    </div>
+                  </div>
+                  <div class="check-flex">
+                    <div>
+                      <a href="">x1000</a>
+                    </div>
+                    <div>
+                      <span>70</span>
+                    </div>
+                  </div>
+                  <div class="check-flex check-low">
+                    <div>
+                      <a href="">x1200</a>
+                    </div>
+                    <div>
+                      <span>57</span>
+                    </div>
+                  </div>
+                  <div class="check-flex check-low">
+                    <div>
+                      <a href="">x1</a>
+                    </div>
+                    <div>
+                      <span>18</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
               <div class="right-banner object-fit">
                 <a href=""><img src="img/right-banner2.jpg" alt=""></a>
               </div>
@@ -1228,10 +1310,12 @@
         <h3>Copyright 2019 l2topservers.com. <span>All rights reserved.</span></h3>
       </div>
       <div class="col-lg-4">
-        <div class="flex-end">
-          <a href="">
-            <img src="img/g2apay_partner.png" alt="">
-          </a>
+        <div class="footer-social">
+          <ul>
+            <li class="instagram"><a href="" target="_blank"><img src="img/instagram.png" alt="Instagram"></a></li>
+            <li class="twitter"><a href="" target="_blank"><img src="img/twitter.png" alt="Instagram"></a></li>
+            <li class="facebook"><a href="" target="_blank"><img src="img/facebook.png" alt="Instagram"></a></li>
+          </ul>
         </div>
       </div>
     </div>

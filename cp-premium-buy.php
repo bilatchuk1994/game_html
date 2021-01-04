@@ -21,7 +21,23 @@
               </a>
             </div>
           </div>
-          <div class="col-6 col-lg-8">
+          <div class="col-3 col-lg-1">
+            <div class="lang">
+              <ul>
+                <li class="lang-current">
+                  <span>RU</span>
+                  <img src="img/ru.png" alt="Icon">
+                </li>
+                <li>
+                  <a href="">
+                    <span>ENG</span>
+                    <img src="img/eng.png" alt="Icon">
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-3 col-lg-7">
             <nav class="menu-nav">
               <div>
                 <ul class="menu">
@@ -556,75 +572,173 @@
             <div class="right-banner object-fit">
               <a href=""><img src="img/right-banner.jpg" alt=""></a>
             </div>
-            <div class="chronicle">
-                  <h3>CHRONICLE</h3>
-                  <div class="chronicle-block">
-                    <div class="check-flex check-bold">
-                      <div>
-                        <a class="active" href="">ALL</a>
-                      </div>
-                      <div>
-                        <span>634</span>
-                      </div>
+              <div class="chronicle">
+                <h3>CHRONICLE</h3>
+                <div class="chronicle-block">
+                  <div class="check-flex check-bold">
+                    <div>
+                      <a class="active" href="">ALL</a>
                     </div>
-                    <div class="check-flex check-bold">
-                      <div>
-                        <a href="">INTERLUDE</a>
-                      </div>
-                      <div>
-                        <span>288</span>
-                      </div>
-                    </div>
-                    <div class="check-flex check-bold">
-                      <div>
-                        <a href="">HIGH FIVE</a>
-                      </div>
-                      <div>
-                        <span>156</span>
-                      </div>
-                    </div>
-                    <div class="check-flex">
-                      <div>
-                        <a href="">CLASSIC</a>
-                      </div>
-                      <div>
-                        <span>33</span>
-                      </div>
-                    </div>
-                    <div class="check-flex">
-                      <div>
-                        <a href="">GRACIA FINAL</a>
-                      </div>
-                      <div>
-                        <span>25</span>
-                      </div>
-                    </div>
-                    <div class="check-flex">
-                      <div>
-                        <a href="">GVE</a>
-                      </div>
-                      <div>
-                        <span>15</span>
-                      </div>
-                    </div>
-                    <div class="check-flex">
-                      <div>
-                        <a href="">GOD</a>
-                      </div>
-                      <div>
-                        <span>12</span>
-                      </div>
-                    </div>
-                    <div class="check-flex check-small">
-                      <div>
-                        <a href="">EPILOGUE</a>
-                      </div>
-                      <div>
-                        <span>7</span>
-                      </div>
+                    <div>
+                      <span>301</span>
                     </div>
                   </div>
-               </div>
+                  <div class="check-flex">
+                    <div>
+                      <a href="">INTERLUDE</a>
+                    </div>
+                    <div>
+                      <span>188</span>
+                    </div>
+                  </div>
+                  <div class="check-flex">
+                    <div>
+                      <a href="">HIGH FIVE</a>
+                    </div>
+                    <div>
+                      <span>72</span>
+                    </div>
+                  </div>
+                  <div class="check-flex check-low">
+                    <div>
+                      <a href="">CLASSIC</a>
+                    </div>
+                    <div>
+                      <span>18</span>
+                    </div>
+                  </div>
+                  <div class="check-flex check-low">
+                    <div>
+                      <a href="">FAFURION</a>
+                    </div>
+                    <div>
+                      <span>9</span>
+                    </div>
+                  </div>
+                  <div class="check-flex check-low">
+                    <div>
+                      <a href="">EPILOGUE</a>
+                    </div>
+                    <div>
+                      <span>6</span>
+                    </div>
+                  </div>
+                  <div class="check-flex check-low">
+                    <div>
+                      <a href="">C4</a>
+                    </div>
+                    <div>
+                      <span>6</span>
+                    </div>
+                  </div>
+                  <div class="check-flex check-low">
+                    <div>
+                      <a href="">GVE</a>
+                    </div>
+                    <div>
+                      <span>6</span>
+                    </div>
+                  </div>
+                  <div class="check-flex check-small">
+                    <div>
+                      <a href="">GRACIA FINAL</a>
+                    </div>
+                    <div>
+                      <span>1</span>
+                    </div>
+                  </div>
+                  <div class="check-flex check-small">
+                    <div>
+                      <a href="">GRAND CRUSADE</a>
+                    </div>
+                    <div>
+                      <span>1</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="chronicle">
+                <h3>CRITERIONS</h3>
+                <div class="chronicle-block">
+                  <div class="check-flex">
+                    <div>
+                      <a href="">PVP</a>
+                    </div>
+                    <div>
+                      <span>118</span>
+                    </div>
+                  </div>
+                  <div class="check-flex">
+                    <div>
+                      <a href="">MID-RATE</a>
+                    </div>
+                    <div>
+                      <span>110</span>
+                    </div>
+                  </div>
+                  <div class="check-flex">
+                    <div>
+                      <a href="">LOW-RATEE</a>
+                    </div>
+                    <div>
+                      <span>88</span>
+                    </div>
+                  </div>
+                  <div class="check-flex check-low">
+                    <div>
+                      <a href="">CUSTOM</a>
+                    </div>
+                    <div>
+                      <span>57</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="chronicle">
+                <h3>RATES</h3>
+                <div class="chronicle-block">
+                  <div class="check-flex">
+                    <div>
+                      <a href="">x100</a>
+                    </div>
+                    <div>
+                      <span>118</span>
+                    </div>
+                  </div>
+                  <div class="check-flex">
+                    <div>
+                      <a href="">x50</a>
+                    </div>
+                    <div>
+                      <span>110</span>
+                    </div>
+                  </div>
+                  <div class="check-flex">
+                    <div>
+                      <a href="">x1000</a>
+                    </div>
+                    <div>
+                      <span>70</span>
+                    </div>
+                  </div>
+                  <div class="check-flex check-low">
+                    <div>
+                      <a href="">x1200</a>
+                    </div>
+                    <div>
+                      <span>57</span>
+                    </div>
+                  </div>
+                  <div class="check-flex check-low">
+                    <div>
+                      <a href="">x1</a>
+                    </div>
+                    <div>
+                      <span>18</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
             <div class="right-banner object-fit">
               <a href=""><img src="img/right-banner2.jpg" alt=""></a>
             </div>
@@ -654,10 +768,12 @@
         <h3>Copyright 2019 l2topservers.com. <span>All rights reserved.</span></h3>
       </div>
       <div class="col-lg-4">
-        <div class="flex-end">
-          <a href="">
-            <img src="img/g2apay_partner.png" alt="">
-          </a>
+        <div class="footer-social">
+          <ul>
+            <li class="instagram"><a href="" target="_blank"><img src="img/instagram.png" alt="Instagram"></a></li>
+            <li class="twitter"><a href="" target="_blank"><img src="img/twitter.png" alt="Instagram"></a></li>
+            <li class="facebook"><a href="" target="_blank"><img src="img/facebook.png" alt="Instagram"></a></li>
+          </ul>
         </div>
       </div>
     </div>

@@ -121,6 +121,12 @@
 
 /* Medium Devices, Desktops */
 @media only screen and (max-width: 992px) {
+
+  .lang {
+    top: -2px;
+    left: 0;
+  }
+
   .view-server {
     margin-left: 0px;
   }
@@ -215,20 +221,6 @@
     padding: 0 20px;
   }
 
-  .view-all {
-    height: 50px;
-    background-color: #dfdfdf;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 18px;
-    color: rgb(96, 96, 96);
-    font-weight: bold;
-    text-decoration: underline;
-    text-transform: uppercase;
-  }
-
   .servers-wrapper {
     margin: 0 -20px 30px;
     padding: 0 20px;
@@ -237,6 +229,8 @@
 
   .btn-all {
     margin: 0px 0 30px;
+    margin-left: -10px;
+    width: calc(100% + 20px);
   }
 
   .banner-block {
@@ -572,8 +566,12 @@
     align-items: center;
   }
 
+  .cp-menu ul li:last-child {
+    border-right: 0;
+  }
+
   .cp-menu ul li {
-    flex-basis: 25%;
+    flex-basis: 100%;
     border-right: 1px solid #dbdde0;
   }
 
@@ -736,6 +734,296 @@
   .form-message p {
     font-size: 12px;
   }
+
+  .vote-rating-main {
+    padding: 7px 0 22px 0;
+  }
+
+  .vote-rating-main-photo {
+    width: 160px;
+    height: 106px;
+  }
+
+  .vote-rating-main-info {
+    width: calc(100% - 160px);
+  }
+
+  .vote-rating-main-stars {
+    padding-bottom: 10px;
+  }
+
+  .vote-rating-main-desc {
+    border-bottom: 0;
+    padding-bottom: 22px;
+  }
+
+  .vote-rating-main-desc-inner {
+    max-height: 100%;
+    min-height: 80px;
+    max-width: 420px;
+  }
+
+  .vote-rating-main-video {
+    border-top: 1px dashed #d5d5d5;
+    padding-top: 15px;
+    margin-left: -180px;
+  }
+
+  .vote-rating-main-video-title h4 {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+
+  .vote-rating-main-video-block {
+    margin-right: 34px;
+  }
+
+  .vote-login {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 0;
+    min-height: 55px;
+  }
+
+  .facebook-block .img-responsive {
+    display: block;
+    margin: auto;
+  }
+
+  .register-block .col-lg-6.col-md-6 {
+    margin: auto;
+  }
+  .register-options-block {
+    margin-right: 22px;
+  }
+
+  .facebook-block {
+    display: block;
+  }
+  .facebook-btns {
+    display: flex;
+    border-top: 1px dashed black;
+    margin-left: 0;
+    justify-content: space-between;
+    padding-top: 12px;
+    align-items: center;
+    margin-top: 20px;
+  }
+  .facebook-btns span {
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+  }
+  .facebook-new {
+    padding: 0 9px;
+  }
+  .facebook-popular {
+    padding: 0 10px;
+  }
+
+  .profile-player-photo {
+    width: 160px;
+    height: 160px;
+  }
+  .profile-player-photo-download {
+    width: 150px;
+    height: 24px;
+    font-size: 11px;
+    left: 0;
+    padding-bottom: 1px;
+  }
+  .profile-player-info {
+    padding-left: 16px;
+    width: calc(100% - 160px);
+  }
+  .profile-player-options {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .profile-player-options-row {
+    width: 50%;
+  }
+  .profile-player-options-row:nth-child(1) {
+    order: 1;
+  }
+  .profile-player-options-row:nth-child(2) {
+    order: 3;
+  }
+  .profile-player-options-row:nth-child(3) {
+    order: 2;
+  }
+  .profile-player-options-row:nth-child(4) {
+    order: 4;
+  }
+  .profile-player-prof {
+    padding-top: 10px;
+  }
+  .profile-player-prof-list {
+    justify-content: flex-start;
+    padding: 0 0 28px 178px;
+    margin-top: -5px;
+  }
+  .profile-player-prof-block img {
+    width: 16px;
+    height: 16px;
+  }
+  .profile-player-edit:before {
+    top: -22px;
+  }
+
+  .page-user-profile .main-block {
+    padding-top: 15px;
+  }
+  .page-user-profile .title-page {
+    display: none;
+  }
+  .page-user-profile .breadcrums-page, .page-cp-profile-player .breadcrums-page {
+    display: block;
+  }
+  .user-profile-content {
+    border-bottom: 1px dashed #d5d5d5;
+    padding-bottom: 20px;
+    padding: 0;
+  }
+  .user-profile-main {
+    border-top: 0;
+    padding-top: 0;
+    padding-bottom: 25px;
+  }
+  .user-profile-photo-wr {
+    width: 160px;
+  }
+  .user-profile-photo {
+    height: 160px;
+  }
+  .user-profile-vote {
+    height: 26px;
+  }
+  .user-profile-info-main {
+    padding-top: 0;
+    padding-bottom: 15px;
+  }
+  .user-profile-info-block {
+    width: 100%;
+  }
+  .user-profile-info {
+    padding-left: 16px;
+    width: calc(100% - 160px);
+  }
+  .user-profile-name {
+    font-size: 18px;
+  }
+  .user-profile-options {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .user-profile-options-row {
+    width: 50%;
+  }
+  .user-profile-options-row:nth-child(1) {
+    order: 1;
+  }
+  .user-profile-options-row:nth-child(2) {
+    order: 3;
+  }
+  .user-profile-options-row:nth-child(3) {
+    order: 2;
+  }
+  .user-profile-options-row:nth-child(4) {
+    order: 4;
+  }
+  .user-profile-info-graph-wr.mob {
+    display: flex;
+  }
+  .user-profile-info-graph-wr.desk {
+    display: none;
+  }
+  .user-profile-info-graph-wr {
+    padding-top: 18px;
+    padding-bottom: 20px;
+  }
+  .user-profile-graph-info {
+    padding-left: 25px;
+  }
+  .user-profile-date {
+    top: 20px;
+    right: 0;
+    padding: 0;
+  }
+  .user-profile-prof {
+    padding-top: 10px;
+  }
+  .user-profile-prof-list {
+    padding-top: 10px;
+    padding-bottom: 0;
+  }
+  .user-profile-prof-block img {
+    width: 16px;
+    height: 16px;
+  }
+  .page-user-profile .comments, .page-user-profile .vote-comment {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .page-user-profile .comments {
+    padding-top: 8px;
+  }
+  .comments-title h2, .comments-title h3 {
+    font-size: 14px;
+    text-align: left;
+    margin-bottom: 8px;
+  }
+
+  .title-page-wr {
+    display: none;
+  }
+  .ip-page {
+    position: static;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #dfdfdf;
+    margin-bottom: 15px;
+  }
+  .ip-page span {
+    order: 2;
+  }
+  .ip-page-fb {
+    order: 1;
+  }
+  .cp-breadcrums {
+    padding: 0 0 3px 7px;
+  }
+  .cp-breadcrums ul li, .cp-breadcrums ul li a {
+    font-size: 12px;
+  }
+
+  .vote-history-title h3 {
+    font-size: 14px;
+    margin-bottom: 0;
+  }
+  .vote-history-table table tr td {
+    height: 35px;
+    padding-left: 15px;
+    font-weight: normal;
+    font-size: 12px;
+    text-transform: none;
+  }
+  .vote-history-table tbody tr td:nth-child(2) {
+    text-transform: uppercase;
+  }
+  .vote-history-showall {
+    font-size: 14px;
+    margin-top: 9px;
+  }
+
+  .footer-social ul {
+    justify-content: center;
+    padding-top: 15px;
+  }
+
 }
 
 /* Small Devices, Tablets */
@@ -961,6 +1249,267 @@ span.name-link {
     max-width: 133px;
 }
 
+.register-options {
+  padding-bottom: 15px;
+}
+.register-options-block {
+  margin-right: 5px;
+}
+.register-options-radio .radiobtn {
+  width: 16px;
+  height: 16px;
+  left: 8px; 
+}
+.register-options-radio .radiobtn:before {
+  width: 8px;
+  height: 8px;
+}
+.register-options-radio .text {
+  font-size: 19px;
+}
+.register-options-fields {
+  margin-top: 13px;
+}
+.register-options-field {
+  font-size: 12.5px;
+  height: 25px;
+  margin-bottom: 12px;
+}
+.register-block h3 {
+  font-size: 18px;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.vote-login p {
+  font-size: 12px;
+}
+
+.profile-player-main {
+  display: block;
+}
+.profile-player-photo {
+  width: 100%;
+  height: 300px;
+}
+.profile-player-photo-download {
+  width: calc(100% - 10px);
+  bottom: 6px;
+  height: 37px;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+.profile-player-info {
+  padding-left: 0;
+  width: 100%;
+  padding-top: 15px;
+}
+.profile-player-name {
+  font-size: 18px;
+}
+.profile-player-options-row {
+  width: 100%;
+}
+.profile-player-options-row:nth-child(1) {
+  order: 1;
+}
+.profile-player-options-row:nth-child(2) {
+  order: 2;
+}
+.profile-player-options-row:nth-child(3) {
+  order: 3;
+}
+.profile-player-options-row:nth-child(4) {
+  order: 4;
+}
+.profile-player-prof {
+  padding-top: 10px;
+}
+.profile-player-prof-list {
+  flex-wrap: wrap;
+  margin-top: 0;
+  padding: 10px 0;
+}
+.profile-player-prof-block {
+  width: 50%;
+  margin-right: 0;
+  margin-bottom: 6px;
+}
+.profile-player-prof-block img {
+  width: 16px;
+  height: 16px;
+}
+.profile-player-edit {
+  margin-top: 13px;
+  padding: 18px 18px 22px;
+}
+.profile-player-edit:before {
+  top: -14px;
+}
+.profile-player-edit-field {
+  width: 100%;
+}
+.profile-player-edit-field:nth-child(1) {
+  order: 1;
+}
+.profile-player-edit-field:nth-child(2) {
+  order: 4;
+}
+.profile-player-edit-field:nth-child(3) {
+  order: 2;
+}
+.profile-player-edit-field:nth-child(4) {
+  order: 3;
+}
+.profile-player-edit-field:nth-child(5) {
+  order: 5;
+}
+.profile-player-edit-field:nth-child(6) {
+  order: 6;
+}
+.profile-player-edit-field:nth-child(7) {
+  order: 9;
+}
+.profile-player-edit-field:nth-child(8) {
+  order: 7;
+}
+.profile-player-edit-field:nth-child(9) {
+  order: 10;
+}
+.profile-player-edit-field:nth-child(10) {
+  order: 8;
+}
+.profile-player-edit-field:nth-child(11) {
+  order: 11;
+}
+.profile-player-edit-field-style1 {
+  width: calc(50% - 8px);
+}
+
+.user-profile-main {
+  display: block;
+  padding-bottom: 0;
+}
+.user-profile-photo-wr {
+  width: 100%;
+}
+.user-profile-photo {
+  height: 300px;
+}
+.user-profile-info {
+  padding-left: 0;
+  width: 100%;
+  padding-top: 20px;
+}
+.user-profile-date {
+  position: static;
+  padding-bottom: 5px;
+}
+.user-profile-options-row {
+  width: 100%;
+}
+.user-profile-options-row:nth-child(1) {
+  order: 1;
+}
+.user-profile-options-row:nth-child(2) {
+  order: 2;
+}
+.user-profile-options-row:nth-child(3) {
+  order: 3;
+}
+.user-profile-options-row:nth-child(4) {
+  order: 4;
+}
+.user-profile-prof {
+  padding-top: 10px;
+}
+.user-profile-prof-list {
+  flex-wrap: wrap;
+  margin-top: 0;
+  padding: 10px 0;
+}
+.user-profile-prof-block {
+  width: 50%;
+  margin-right: 0;
+  margin-bottom: 6px;
+}
+.user-profile-prof-block img {
+  width: 16px;
+  height: 16px;
+}
+.user-profile-info-graph-wr {
+  padding: 10px 0;
+}
+.comments-title h2 {
+  text-transform: none;
+}
+.comments-btn {
+  margin-right: 7px;
+}
+
+.vote-history-table table tr td {
+  font-size: 10.5px;
+  height: 27px;
+}
+.vote-history-showall {
+  margin-top: 13px;
+}
+
+.vote-rating-main-video-wr {
+  flex-wrap: wrap;
+}
+.vote-rating-main-video-block {
+  margin-right: 6px;
+  margin-bottom: 6px;
+  height: 98px;
+  width: calc(50% - 3px);
+  max-width: 147px;
+}
+
+}
+
+@media only screen and (max-width: 680px) {
+  .comment-add-rating {
+    padding-left: 0;
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 635px) {
+
+.vote-rating-main {
+  display: block;
+  padding: 0;
+}
+
+.vote-rating-main-photo {
+  width: 100%;
+  height: 198px;
+}
+
+.vote-rating-main-info {
+  width: 100%;
+  padding-top: 15px;
+  padding-left: 0;
+}
+
+.vote-rating-main-stars {
+  padding-bottom: 10px;
+}
+
+.vote-rating-main-desc {
+  padding-bottom: 15px;
+}
+
+.vote-rating-main-desc-inner {
+  max-height: 100%;
+}
+
+.vote-rating-main-video {
+  margin-left: 0;
+}
+
 }
 
 @media only screen and (max-width: 635px) {
@@ -987,6 +1536,10 @@ span.name-link {
 
 .server-info {
     max-width: 100%;
+}
+
+.server-block h3 {
+  padding-left: 25px;
 }
 
 .rating-block .server-block p{
@@ -1044,11 +1597,13 @@ span.name-link {
   }
 
   .logo {
-    height: 27px;
+    background: url('../img/logo-mob.png') no-repeat;
+    width: 152px;
+    height: 26px;
   }
 
   .logo img {
-    height: 27px;
+    display: none;
   }
 
   span.name-link {
@@ -1057,6 +1612,10 @@ span.name-link {
 
   .header {
     padding: 10px 0;
+  }
+
+  .ip-page span {
+    font-size: 12px;
   }
 
   .main-block h2 {
@@ -1168,9 +1727,14 @@ span.name-link {
     height: 13px;
   }
 
+  .btn-all {
+    margin-bottom: 0;
+    background: transparent;
+    height: auto;
+  }
+
   .view-all {
-    height: 37px;
-    font-size: 12px;
+    font-size: 14px;
   }
 
   .server-wrapper .name span.label-link {
@@ -1420,6 +1984,20 @@ span.name-link {
     text-overflow: ellipsis;
   }
 
+  .server-info ul li a img {
+    display: none;
+  }
+
+  .server-info ul li:nth-child(2) a:before {
+    content: '';
+    display: inline-block;
+    position: relative;
+    top: 1px;
+    background: url('../img/comments-mob.png') no-repeat;
+    width: 15px;
+    height: 13px;
+  }
+
 .rating-block .server-wrapper .rates p{
   text-align: center;
 }
@@ -1588,6 +2166,10 @@ span.name-link {
 
   .server-wrapper .votes {
     width: 80px;
+  }
+
+  .comments-btn {
+    padding: 0 5px;
   }
 
 span.name-link {

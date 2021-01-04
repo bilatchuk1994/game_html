@@ -101,10 +101,9 @@ $('#toggle').click(function(e){
 });
 
 $(document).click(function(event) {
-    if ($('body').hasClass('menu_expanded')){
-        $(".menu-nav").slideUp();
-        $("body").removeClass(" menu_expanded");
-        $("#toggle").removeClass(" on");
+
+    if ($('body').hasClass('banner')){
+        window.location.href = 'http://example.com';
         event.stopPropagation();
     }
 });
@@ -277,3 +276,65 @@ $(function() {
     options: options
   });
 });
+
+(function($) {
+  function setChecked(target) {
+    var checked = $(target).find("input[type='checkbox']:checked").length;
+    $(target).find('select option:first').html('Выберите профессии из списка');
+  }
+
+  $.fn.checkselect = function() {
+    this.wrapInner('<div class="checkselect-popup"></div>');
+    this.prepend(
+      '<div class="checkselect-control">' +
+        '<select class="form-control"><option></option></select>' +
+        '<div class="checkselect-over"></div>' +
+      '</div>'
+    );  
+
+    this.each(function(){
+      setChecked(this);
+    });   
+    this.find('input[type="checkbox"]').click(function(){
+      setChecked($(this).parents('.checkselect'));
+    });
+
+    this.parent().find('.checkselect-control').on('click', function(){
+      $popup = $(this).next();
+      $('.checkselect-popup').not($popup).css('display', 'none');
+      if ($popup.is(':hidden')) {
+        $popup.css('display', 'block');
+        $(this).find('select').focus();
+      } else {
+        $popup.css('display', 'none');
+      }
+    });
+
+    $('html, body').on('click', function(e){
+      if ($(e.target).closest('.checkselect').length == 0){
+        $('.checkselect-popup').css('display', 'none');
+      }
+    });
+  };
+})(jQuery); 
+
+$('.checkselect').checkselect();
+
+if($(".register-options-player input").attr("checked")){
+  $('.register-field').hide();
+}else{
+  $('.register-field').show();
+}
+
+$('.register-options-block').on('click', function () {
+  if ( $(".register-options-player input").is(':checked') ) {
+    $('.register-field').hide();
+  } else {
+    $('.register-field').show();
+  }
+})
+
+$('.view-all').on('click', function (e) {
+  e.preventDefault();
+  $('.vip-servers #soon > div:nth-child(n+7), .vip-servers #already > div:nth-child(n+7)').show();
+})
